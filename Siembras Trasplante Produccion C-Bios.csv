@@ -47,8 +47,8 @@ Crespa verde,28,128,Trasplante,20,128
 Crespa verde,28,128,Plan,21,128
 Crespa verde,28,128,Siembra,21,128
 Crespa verde,28,128,Trasplante,21,128
-Crespa verde,28,128,Plan,22,NA
-Crespa verde,28,128,Siembra,22,NA
+Crespa verde,28,128,Plan,22,128
+Crespa verde,28,128,Siembra,22,128
 Crespa verde,28,128,Trasplante,22,128
 Crespa verde,28,128,Plan,23,NA
 Crespa verde,28,128,Siembra,23,NA
@@ -188,8 +188,8 @@ Crespa morada,28,128,Trasplante,20,64
 Crespa morada,28,128,Plan,21,64
 Crespa morada,28,128,Siembra,21,64
 Crespa morada,28,128,Trasplante,21,64
-Crespa morada,28,128,Plan,22,NA
-Crespa morada,28,128,Siembra,22,NA
+Crespa morada,28,128,Plan,22,64
+Crespa morada,28,128,Siembra,22,64
 Crespa morada,28,128,Trasplante,22,64
 Crespa morada,28,128,Plan,23,NA
 Crespa morada,28,128,Siembra,23,NA
@@ -329,8 +329,8 @@ Lisa,28,128,Trasplante,20,64
 Lisa,28,128,Plan,21,64
 Lisa,28,128,Siembra,21,64
 Lisa,28,128,Trasplante,21,64
-Lisa,28,128,Plan,22,NA
-Lisa,28,128,Siembra,22,NA
+Lisa,28,128,Plan,22,64
+Lisa,28,128,Siembra,22,64
 Lisa,28,128,Trasplante,22,64
 Lisa,28,128,Plan,23,NA
 Lisa,28,128,Siembra,23,NA
@@ -470,8 +470,8 @@ Romana,28,128,Trasplante,20,64
 Romana,28,128,Plan,21,64
 Romana,28,128,Siembra,21,64
 Romana,28,128,Trasplante,21,64
-Romana,28,128,Plan,22,NA
-Romana,28,128,Siembra,22,NA
+Romana,28,128,Plan,22,64
+Romana,28,128,Siembra,22,64
 Romana,28,128,Trasplante,22,64
 Romana,28,128,Plan,23,NA
 Romana,28,128,Siembra,23,NA
@@ -611,8 +611,8 @@ Cogollitos  tudela verde,28,128,Trasplante,20,64
 Cogollitos  tudela verde,28,128,Plan,21,64
 Cogollitos  tudela verde,28,128,Siembra,21,64
 Cogollitos  tudela verde,28,128,Trasplante,21,64
-Cogollitos  tudela verde,28,128,Plan,22,NA
-Cogollitos  tudela verde,28,128,Siembra,22,NA
+Cogollitos  tudela verde,28,128,Plan,22,64
+Cogollitos  tudela verde,28,128,Siembra,22,64
 Cogollitos  tudela verde,28,128,Trasplante,22,64
 Cogollitos  tudela verde,28,128,Plan,23,NA
 Cogollitos  tudela verde,28,128,Siembra,23,NA
@@ -752,8 +752,8 @@ Cogollitos tudela morado,28,128,Trasplante,20,64
 Cogollitos tudela morado,28,128,Plan,21,64
 Cogollitos tudela morado,28,128,Siembra,21,64
 Cogollitos tudela morado,28,128,Trasplante,21,64
-Cogollitos tudela morado,28,128,Plan,22,NA
-Cogollitos tudela morado,28,128,Siembra,22,NA
+Cogollitos tudela morado,28,128,Plan,22,64
+Cogollitos tudela morado,28,128,Siembra,22,64
 Cogollitos tudela morado,28,128,Trasplante,22,64
 Cogollitos tudela morado,28,128,Plan,23,NA
 Cogollitos tudela morado,28,128,Siembra,23,NA
@@ -893,8 +893,8 @@ Cogollitos tudela morado,28,128,Trasplante,52,NA
 4 variedades,28,128,Plan,21,64
 4 variedades,28,128,Siembra,21,64
 4 variedades,28,128,Trasplante,21,64
-4 variedades,28,128,Plan,22,NA
-4 variedades,28,128,Siembra,22,NA
+4 variedades,28,128,Plan,22,64
+4 variedades,28,128,Siembra,22,48
 4 variedades,28,128,Trasplante,22,48
 4 variedades,28,128,Plan,23,NA
 4 variedades,28,128,Siembra,23,NA
@@ -1034,8 +1034,8 @@ Acelga común,28,128,Trasplante,20,128
 Acelga común,28,128,Plan,21,128
 Acelga común,28,128,Siembra,21,128
 Acelga común,28,128,Trasplante,21,128
-Acelga común,28,128,Plan,22,NA
-Acelga común,28,128,Siembra,22,NA
+Acelga común,28,128,Plan,22,128
+Acelga común,28,128,Siembra,22,128
 Acelga común,28,128,Trasplante,22,128
 Acelga común,28,128,Plan,23,NA
 Acelga común,28,128,Siembra,23,NA
@@ -1175,8 +1175,8 @@ Acelga colores,28,128,Trasplante,20,64
 Acelga colores,28,128,Plan,21,64
 Acelga colores,28,128,Siembra,21,64
 Acelga colores,28,128,Trasplante,21,64
-Acelga colores,28,128,Plan,22,NA
-Acelga colores,28,128,Siembra,22,NA
+Acelga colores,28,128,Plan,22,64
+Acelga colores,28,128,Siembra,22,64
 Acelga colores,28,128,Trasplante,22,64
 Acelga colores,28,128,Plan,23,NA
 Acelga colores,28,128,Siembra,23,NA
@@ -1316,8 +1316,8 @@ Cilantro,28,128,Trasplante,20,384
 Cilantro,28,128,Plan,21,384
 Cilantro,28,128,Siembra,21,384
 Cilantro,28,128,Trasplante,21,384
-Cilantro,28,128,Plan,22,NA
-Cilantro,28,128,Siembra,22,NA
+Cilantro,28,128,Plan,22,384
+Cilantro,28,128,Siembra,22,384
 Cilantro,28,128,Trasplante,22,384
 Cilantro,28,128,Plan,23,NA
 Cilantro,28,128,Siembra,23,NA
@@ -1457,8 +1457,8 @@ Rúgula,28,128,Trasplante,20,128
 Rúgula,28,128,Plan,21,128
 Rúgula,28,128,Siembra,21,128
 Rúgula,28,128,Trasplante,21,128
-Rúgula,28,128,Plan,22,NA
-Rúgula,28,128,Siembra,22,NA
+Rúgula,28,128,Plan,22,128
+Rúgula,28,128,Siembra,22,128
 Rúgula,28,128,Trasplante,22,128
 Rúgula,28,128,Plan,23,NA
 Rúgula,28,128,Siembra,23,NA
@@ -1598,8 +1598,8 @@ Apio,28,128,Trasplante,20,0
 Apio,28,128,Plan,21,0
 Apio,28,128,Siembra,21,0
 Apio,28,128,Trasplante,21,0
-Apio,28,128,Plan,22,NA
-Apio,28,128,Siembra,22,NA
+Apio,28,128,Plan,22,0
+Apio,28,128,Siembra,22,0
 Apio,28,128,Trasplante,22,0
 Apio,28,128,Plan,23,NA
 Apio,28,128,Siembra,23,NA
@@ -1739,8 +1739,8 @@ Perejil liso,28,128,Trasplante,20,128
 Perejil liso,28,128,Plan,21,128
 Perejil liso,28,128,Siembra,21,128
 Perejil liso,28,128,Trasplante,21,128
-Perejil liso,28,128,Plan,22,NA
-Perejil liso,28,128,Siembra,22,NA
+Perejil liso,28,128,Plan,22,128
+Perejil liso,28,128,Siembra,22,128
 Perejil liso,28,128,Trasplante,22,128
 Perejil liso,28,128,Plan,23,NA
 Perejil liso,28,128,Siembra,23,NA
@@ -1880,8 +1880,8 @@ Perejil crespo,28,128,Trasplante,20,64
 Perejil crespo,28,128,Plan,21,64
 Perejil crespo,28,128,Siembra,21,64
 Perejil crespo,28,128,Trasplante,21,64
-Perejil crespo,28,128,Plan,22,NA
-Perejil crespo,28,128,Siembra,22,NA
+Perejil crespo,28,128,Plan,22,64
+Perejil crespo,28,128,Siembra,22,64
 Perejil crespo,28,128,Trasplante,22,64
 Perejil crespo,28,128,Plan,23,NA
 Perejil crespo,28,128,Siembra,23,NA
@@ -2021,8 +2021,8 @@ Cebolla bulbo,28,200,Trasplante,20,1020
 Cebolla bulbo,28,200,Plan,21,1024
 Cebolla bulbo,28,200,Siembra,21,1024
 Cebolla bulbo,28,200,Trasplante,21,1020
-Cebolla bulbo,28,200,Plan,22,NA
-Cebolla bulbo,28,200,Siembra,22,NA
+Cebolla bulbo,28,200,Plan,22,1024
+Cebolla bulbo,28,200,Siembra,22,1020
 Cebolla bulbo,28,200,Trasplante,22,1020
 Cebolla bulbo,28,200,Plan,23,NA
 Cebolla bulbo,28,200,Siembra,23,NA
@@ -2303,8 +2303,8 @@ Calabacin verde,28,128,Trasplante,20,20
 Calabacin verde,28,128,Plan,21,20
 Calabacin verde,28,128,Siembra,21,20
 Calabacin verde,28,128,Trasplante,21,20
-Calabacin verde,28,128,Plan,22,NA
-Calabacin verde,28,128,Siembra,22,NA
+Calabacin verde,28,128,Plan,22,20
+Calabacin verde,28,128,Siembra,22,20
 Calabacin verde,28,128,Trasplante,22,20
 Calabacin verde,28,128,Plan,23,NA
 Calabacin verde,28,128,Siembra,23,NA
@@ -2444,8 +2444,8 @@ Calabacin amarillo,28,128,Trasplante,20,20
 Calabacin amarillo,28,128,Plan,21,20
 Calabacin amarillo,28,128,Siembra,21,20
 Calabacin amarillo,28,128,Trasplante,21,20
-Calabacin amarillo,28,128,Plan,22,NA
-Calabacin amarillo,28,128,Siembra,22,NA
+Calabacin amarillo,28,128,Plan,22,20
+Calabacin amarillo,28,128,Siembra,22,20
 Calabacin amarillo,28,128,Trasplante,22,20
 Calabacin amarillo,28,128,Plan,23,NA
 Calabacin amarillo,28,128,Siembra,23,NA
@@ -2585,8 +2585,8 @@ Espinaca,28,200,Trasplante,20,800
 Espinaca,28,200,Plan,21,800
 Espinaca,28,200,Siembra,21,800
 Espinaca,28,200,Trasplante,21,800
-Espinaca,28,200,Plan,22,NA
-Espinaca,28,200,Siembra,22,NA
+Espinaca,28,200,Plan,22,800
+Espinaca,28,200,Siembra,22,800
 Espinaca,28,200,Trasplante,22,800
 Espinaca,28,200,Plan,23,NA
 Espinaca,28,200,Siembra,23,NA
@@ -2726,9 +2726,9 @@ Brócoli,28,128,Trasplante,20,100
 Brócoli,28,128,Plan,21,100
 Brócoli,28,128,Siembra,21,100
 Brócoli,28,128,Trasplante,21,100
-Brócoli,28,128,Plan,22,NA
-Brócoli,28,128,Siembra,22,NA
-Brócoli,28,128,Trasplante,22,56
+Brócoli,28,128,Plan,22,100
+Brócoli,28,128,Siembra,22,100
+Brócoli,28,128,Trasplante,22,100
 Brócoli,28,128,Plan,23,NA
 Brócoli,28,128,Siembra,23,NA
 Brócoli,28,128,Trasplante,23,NA
@@ -2867,9 +2867,9 @@ Coliflor,28,128,Trasplante,20,56
 Coliflor,28,128,Plan,21,56
 Coliflor,28,128,Siembra,21,56
 Coliflor,28,128,Trasplante,21,56
-Coliflor,28,128,Plan,22,NA
-Coliflor,28,128,Siembra,22,NA
-Coliflor,28,128,Trasplante,22,100
+Coliflor,28,128,Plan,22,56
+Coliflor,28,128,Siembra,22,56
+Coliflor,28,128,Trasplante,22,56
 Coliflor,28,128,Plan,23,NA
 Coliflor,28,128,Siembra,23,NA
 Coliflor,28,128,Trasplante,23,NA
@@ -3008,8 +3008,8 @@ Romanesco,28,128,Trasplante,20,100
 Romanesco,28,128,Plan,21,100
 Romanesco,28,128,Siembra,21,100
 Romanesco,28,128,Trasplante,21,90
-Romanesco,28,128,Plan,22,NA
-Romanesco,28,128,Siembra,22,NA
+Romanesco,28,128,Plan,22,100
+Romanesco,28,128,Siembra,22,100
 Romanesco,28,128,Trasplante,22,100
 Romanesco,28,128,Plan,23,NA
 Romanesco,28,128,Siembra,23,NA
@@ -3149,8 +3149,8 @@ Kale,28,128,Trasplante,20,20
 Kale,28,128,Plan,21,20
 Kale,28,128,Siembra,21,20
 Kale,28,128,Trasplante,21,20
-Kale,28,128,Plan,22,NA
-Kale,28,128,Siembra,22,NA
+Kale,28,128,Plan,22,20
+Kale,28,128,Siembra,22,20
 Kale,28,128,Trasplante,22,20
 Kale,28,128,Plan,23,NA
 Kale,28,128,Siembra,23,NA
