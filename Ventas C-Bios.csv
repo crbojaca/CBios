@@ -698,7 +698,6 @@ Ano,Semana,Producto,Clasificacion_Producto,Responsable,Clientes_Funcionarios,Val
 2020,23,TAT_SOI_MORADO,Lechugas,Hugo_Escobar,1,1800,5,2200
 2020,23,MAZORCA,Maiz,Hugo_Escobar,0,2000,0,2700
 2020,23,POLEN,Polen,Luz_Stella,0,12000,3,12000
-<<<<<<< HEAD
 2020,24,ACELGA_CHINA,Acelgas,Hugo_Escobar,0,1300,4,2800
 2020,24,ACELGA_COMUN,Acelgas,Hugo_Escobar,2,1200,28,1500
 2020,24,ACELGA_AMARILLA,Acelgas,Hugo_Escobar,0,1300,2,2200
@@ -741,5 +740,3 @@ Ano,Semana,Producto,Clasificacion_Producto,Responsable,Clientes_Funcionarios,Val
 2020,24,TAT_SOI_MORADO,Lechugas,Hugo_Escobar,0,1800,0,2200
 2020,24,MAZORCA,Maiz,Hugo_Escobar,0,2000,0,2700
 2020,24,POLEN,Polen,Luz_Stella,1,12000,8,12000
-=======
->>>>>>> 4382e6a13b1dc4aba14fee22e295f3ca55db5839
