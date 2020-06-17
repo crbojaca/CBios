@@ -2967,6 +2967,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-05T12:48:45Z,2020-06-05T00:00:00Z,Omaira Pacheco,Coliflor púrpura - Unidad,NA
 2020-06-05T12:48:45Z,2020-06-05T00:00:00Z,Omaira Pacheco,Brócoli especialidad - Unidad,NA
 2020-06-05T12:48:45Z,2020-06-05T00:00:00Z,Omaira Pacheco,Tatsoi - Unidad,NA
+<<<<<<< HEAD
 2020-06-08T12:54:48Z,2020-06-08T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Unidad,NA
 2020-06-08T12:54:48Z,2020-06-08T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Atado,6
 2020-06-08T12:54:48Z,2020-06-08T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Atado,2
@@ -3868,3 +3869,5 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T08:22:06Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Coliflor púrpura - Unidad,NA
 2020-06-16T08:22:06Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Brócoli especialidad - Unidad,NA
 2020-06-16T08:22:06Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Tatsoi - Unidad,NA
+=======
+>>>>>>> 4382e6a13b1dc4aba14fee22e295f3ca55db5839
