@@ -6293,7 +6293,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Calabacín zucchini amarillo - Kilogramos,3.52
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Calabacín zucchini verde - Kilogramos,4.34
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Kale - Atado,5.26
-2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Compost - Bulto por 30 kilos,0
+2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Compost - Bulto por 30 kilos,8
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Compost - Kilogramos,0
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Aromáticas - Atado,0
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Polen - Frasco por 120 gramos,4
@@ -6306,3 +6306,109 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Coliflor púrpura - Unidad,1.72
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Brócoli especialidad - Unidad,0
 2020-07-17T14:55:44Z,2020-07-17T00:00:00Z,Omaira Pacheco,Tatsoi - Unidad,0.5
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Atado,3.2
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Atado,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga roja - Atado,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Brócoli - Unidad,5.6
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Cebolla junca - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Cebolla cabezona blanca - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Cilantro - Atado,1.5
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Cogollos de Tudela - Unidad,2.5
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Coliflor - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Espinaca - Atado,7.1
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Fresa - Kilogramos,6
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Lechuga crespa verde - Unidad,1.86
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Lechuga lisa - Unidad,1.05
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Lechuga morada - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Lechuga romana - Unidad,1
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Lechuga rúgula - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Mezcla asiáticas - Atado,2.5
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Pepino europeo - Kilogramos,129
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Pepino europeo - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Perejil liso - Atado,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Perejil crespo - Atado,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Pimentón amarillo - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Pimentón rojo - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Repollo morado - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Repollo rizado - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Repollo verde - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Romanesco - Unidad,4
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Repollitas de Bruselas - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Tomate de árbol - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Tomate chonto - Kilogramos,32
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Tomate cherry amarillo - Kilogramos,5.7
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Tomate cherry uvalina - Kilogramos,12.38
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Ajo - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Alcachofa - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Apio - Atado,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Arracacha - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Calabacín zucchini amarillo - Kilogramos,2.09
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Calabacín zucchini verde - Kilogramos,2.14
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Kale - Atado,2.44
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Compost - Bulto por 30 kilos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Compost - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Aromáticas - Atado,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Polen - Frasco por 120 gramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,5
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Cebolla roja - Kilogramos,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Espinaca baby roja - Atado,2.1
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Espinaca baby verde - Atado,2.1
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Coliflor púrpura - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Brócoli especialidad - Unidad,NA
+2020-07-22T12:04:54Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Tatsoi - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Atado,3.6
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Atado,1.632
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Acelga roja - Atado,1.17
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Brócoli - Unidad,3.7
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Cebolla junca - Kilogramos,13.492
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Cebolla cabezona blanca - Kilogramos,17
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Cilantro - Atado,2.9
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Cogollos de Tudela - Unidad,7.5
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Coliflor - Unidad,12
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Espinaca - Atado,13.56
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Fresa - Kilogramos,10.23
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Lechuga crespa verde - Unidad,8.8
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Lechuga lisa - Unidad,2.2
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Lechuga morada - Unidad,5.2
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Lechuga romana - Unidad,3.9
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Lechuga rúgula - Unidad,2.4
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Mezcla asiáticas - Atado,1.599
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Pepino europeo - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Pepino europeo - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Perejil liso - Atado,1.16
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Perejil crespo - Atado,1.13
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Pimentón amarillo - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Pimentón rojo - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Repollo morado - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Repollo rizado - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Repollo verde - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Romanesco - Unidad,8.3
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Repollitas de Bruselas - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Tomate de árbol - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Tomate chonto - Kilogramos,67.2
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Tomate cherry amarillo - Kilogramos,7.4
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Tomate cherry uvalina - Kilogramos,12.96
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Ajo - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Alcachofa - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Apio - Atado,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Arracacha - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Calabacín zucchini amarillo - Kilogramos,5.6
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Calabacín zucchini verde - Kilogramos,11.2
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Kale - Atado,6.9
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Compost - Bulto por 30 kilos,10
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Compost - Kilogramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Aromáticas - Atado,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Polen - Frasco por 120 gramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Cebolla roja - Kilogramos,2.9
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Espinaca baby roja - Atado,0.778
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Espinaca baby verde - Atado,0.778
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Coliflor púrpura - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Brócoli especialidad - Unidad,NA
+2020-07-22T12:09:34Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Tatsoi - Unidad,1.182
