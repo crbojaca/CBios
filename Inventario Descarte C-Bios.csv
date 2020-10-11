@@ -51,6 +51,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-10T14:43:42Z,2020-06-10T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-10T14:43:42Z,2020-06-10T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-10T14:43:42Z,2020-06-10T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-10T14:43:42Z,2020-06-10T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-11T12:33:13Z,2020-06-11T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-11T12:33:13Z,2020-06-11T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-11T12:33:13Z,2020-06-11T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -103,6 +104,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-11T12:33:13Z,2020-06-11T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-11T12:33:13Z,2020-06-11T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-11T12:33:13Z,2020-06-11T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-11T12:33:13Z,2020-06-11T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-12T12:44:40Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-12T12:44:40Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-12T12:44:40Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -155,6 +157,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-12T12:44:40Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-12T12:44:40Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-12T12:44:40Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-12T12:44:40Z,2020-06-12T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T11:51:59Z,2020-01-14T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T11:51:59Z,2020-01-14T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T11:51:59Z,2020-01-14T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,3
@@ -207,6 +210,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T11:51:59Z,2020-01-14T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T11:51:59Z,2020-01-14T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T11:51:59Z,2020-01-14T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T11:51:59Z,2020-01-14T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T11:54:55Z,2020-01-13T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,3
 2020-06-15T11:54:55Z,2020-01-13T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,3
 2020-06-15T11:54:55Z,2020-01-13T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,2
@@ -259,6 +263,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T11:54:55Z,2020-01-13T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T11:54:55Z,2020-01-13T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T11:54:55Z,2020-01-13T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T11:54:55Z,2020-01-13T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T11:59:18Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,3
 2020-06-15T11:59:18Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T11:59:18Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,2
@@ -311,6 +316,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T11:59:18Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T11:59:18Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T11:59:18Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T11:59:18Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T12:00:06Z,2020-01-16T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T12:00:06Z,2020-01-16T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T12:00:06Z,2020-01-16T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -363,6 +369,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:00:06Z,2020-01-16T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:00:06Z,2020-01-16T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T12:00:06Z,2020-01-16T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T12:00:06Z,2020-01-16T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T12:00:57Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T12:00:57Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1
 2020-06-15T12:00:57Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -415,6 +422,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:00:57Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:00:57Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T12:00:57Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T12:00:57Z,2020-01-15T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T12:03:51Z,2020-01-20T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,3
 2020-06-15T12:03:51Z,2020-01-20T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2
 2020-06-15T12:03:51Z,2020-01-20T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -467,6 +475,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:03:51Z,2020-01-20T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:03:51Z,2020-01-20T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:03:51Z,2020-01-20T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:03:51Z,2020-01-20T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:05:19Z,2020-01-20T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T12:05:19Z,2020-01-20T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T12:05:19Z,2020-01-20T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -519,6 +528,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:05:19Z,2020-01-20T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:05:19Z,2020-01-20T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T12:05:19Z,2020-01-20T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T12:05:19Z,2020-01-20T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T12:06:24Z,2020-01-21T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:06:24Z,2020-01-21T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:06:24Z,2020-01-21T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -571,6 +581,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:06:24Z,2020-01-21T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:06:24Z,2020-01-21T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:06:24Z,2020-01-21T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:06:24Z,2020-01-21T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:07:41Z,2020-01-22T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:07:41Z,2020-01-22T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:07:41Z,2020-01-22T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -623,6 +634,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:07:41Z,2020-01-22T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:07:41Z,2020-01-22T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:07:41Z,2020-01-22T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:07:41Z,2020-01-22T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:16:58Z,2020-01-23T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:16:58Z,2020-01-23T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:16:58Z,2020-01-23T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,4
@@ -675,6 +687,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:16:58Z,2020-01-23T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:16:58Z,2020-01-23T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:16:58Z,2020-01-23T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:16:58Z,2020-01-23T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:19:19Z,2020-01-24T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:19:19Z,2020-01-24T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:19:19Z,2020-01-24T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -727,6 +740,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:19:19Z,2020-01-24T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:19:19Z,2020-01-24T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:19:19Z,2020-01-24T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:19:19Z,2020-01-24T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:23:29Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T12:23:29Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T12:23:29Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,3
@@ -779,6 +793,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:23:29Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:23:29Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T12:23:29Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T12:23:29Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T12:23:57Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T12:23:57Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T12:23:57Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -831,6 +846,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:23:57Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:23:57Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T12:23:57Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T12:23:57Z,2020-01-27T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T12:25:57Z,2020-01-28T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:25:57Z,2020-01-28T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:25:57Z,2020-01-28T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -883,6 +899,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:25:57Z,2020-01-28T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:25:57Z,2020-01-28T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:25:57Z,2020-01-28T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:25:57Z,2020-01-28T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:26:40Z,2020-01-29T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:26:40Z,2020-01-29T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:26:40Z,2020-01-29T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -935,6 +952,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:26:40Z,2020-01-29T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:26:40Z,2020-01-29T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:26:40Z,2020-01-29T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:26:40Z,2020-01-29T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:28:22Z,2020-01-30T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:28:22Z,2020-01-30T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:28:22Z,2020-01-30T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,6
@@ -987,6 +1005,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:28:22Z,2020-01-30T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:28:22Z,2020-01-30T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:28:22Z,2020-01-30T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:28:22Z,2020-01-30T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:30:50Z,2020-01-31T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T12:30:50Z,2020-01-31T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T12:30:50Z,2020-01-31T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1039,6 +1058,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:30:50Z,2020-01-31T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:30:50Z,2020-01-31T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T12:30:50Z,2020-01-31T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T12:30:50Z,2020-01-31T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T12:56:00Z,2020-02-03T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,3
 2020-06-15T12:56:00Z,2020-02-03T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T12:56:00Z,2020-02-03T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,3
@@ -1091,6 +1111,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:56:00Z,2020-02-03T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:56:00Z,2020-02-03T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T12:56:00Z,2020-02-03T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T12:56:00Z,2020-02-03T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T12:57:52Z,2020-02-04T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T12:57:52Z,2020-02-04T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1
 2020-06-15T12:57:52Z,2020-02-04T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -1143,6 +1164,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T12:57:52Z,2020-02-04T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T12:57:52Z,2020-02-04T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T12:57:52Z,2020-02-04T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T12:57:52Z,2020-02-04T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:11:05Z,2020-02-05T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T13:11:05Z,2020-02-05T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T13:11:05Z,2020-02-05T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -1195,6 +1217,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:11:05Z,2020-02-05T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:11:05Z,2020-02-05T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T13:11:05Z,2020-02-05T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T13:11:05Z,2020-02-05T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:16:07Z,2020-02-06T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,4
 2020-06-15T13:16:07Z,2020-02-06T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1
 2020-06-15T13:16:07Z,2020-02-06T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,4
@@ -1247,6 +1270,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:16:07Z,2020-02-06T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:16:07Z,2020-02-06T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T13:16:07Z,2020-02-06T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T13:16:07Z,2020-02-06T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:23:32Z,2020-03-02T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T13:23:32Z,2020-03-02T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T13:23:32Z,2020-03-02T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -1299,6 +1323,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:23:32Z,2020-03-02T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:23:32Z,2020-03-02T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T13:23:32Z,2020-03-02T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T13:23:32Z,2020-03-02T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:26:21Z,2020-03-03T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,1
 2020-06-15T13:26:21Z,2020-03-03T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:26:21Z,2020-03-03T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1351,6 +1376,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:26:21Z,2020-03-03T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:26:21Z,2020-03-03T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:26:21Z,2020-03-03T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:26:21Z,2020-03-03T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:29:20Z,2020-03-09T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:29:20Z,2020-03-09T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:29:20Z,2020-03-09T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,3
@@ -1403,6 +1429,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:29:20Z,2020-03-09T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:29:20Z,2020-03-09T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:29:20Z,2020-03-09T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:29:20Z,2020-03-09T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:32:07Z,2020-03-04T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:32:07Z,2020-03-04T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:32:07Z,2020-03-04T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1455,6 +1482,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:32:07Z,2020-03-04T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:32:07Z,2020-03-04T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:32:07Z,2020-03-04T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:32:07Z,2020-03-04T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:33:38Z,2020-03-05T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:33:38Z,2020-03-05T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:33:38Z,2020-03-05T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1507,6 +1535,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:33:38Z,2020-03-05T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:33:38Z,2020-03-05T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:33:38Z,2020-03-05T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:33:38Z,2020-03-05T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:35:41Z,2020-03-06T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:35:41Z,2020-03-06T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:35:41Z,2020-03-06T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1559,6 +1588,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:35:41Z,2020-03-06T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:35:41Z,2020-03-06T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:35:41Z,2020-03-06T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:35:41Z,2020-03-06T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:40:27Z,2020-03-09T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:40:27Z,2020-03-09T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:40:27Z,2020-03-09T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1611,6 +1641,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:40:27Z,2020-03-09T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:40:27Z,2020-03-09T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:40:27Z,2020-03-09T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:40:27Z,2020-03-09T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:42:07Z,2020-03-10T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:42:07Z,2020-03-10T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:42:07Z,2020-03-10T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1663,6 +1694,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:42:07Z,2020-03-10T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:42:07Z,2020-03-10T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:42:07Z,2020-03-10T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:42:07Z,2020-03-10T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:45:27Z,2020-03-11T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T13:45:27Z,2020-03-11T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T13:45:27Z,2020-03-11T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -1715,6 +1747,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:45:27Z,2020-03-11T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:45:27Z,2020-03-11T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T13:45:27Z,2020-03-11T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T13:45:27Z,2020-03-11T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:48:25Z,2020-03-12T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T13:48:25Z,2020-03-12T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T13:48:25Z,2020-03-12T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -1767,6 +1800,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:48:25Z,2020-03-12T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:48:25Z,2020-03-12T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T13:48:25Z,2020-03-12T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T13:48:25Z,2020-03-12T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:49:23Z,2020-03-13T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:49:23Z,2020-03-13T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:49:23Z,2020-03-13T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1819,6 +1853,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:49:23Z,2020-03-13T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:49:23Z,2020-03-13T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:49:23Z,2020-03-13T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:49:23Z,2020-03-13T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T13:50:34Z,2020-03-16T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T13:50:34Z,2020-03-16T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T13:50:34Z,2020-03-16T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -1871,6 +1906,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:50:34Z,2020-03-16T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:50:34Z,2020-03-16T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T13:50:34Z,2020-03-16T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T13:50:34Z,2020-03-16T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:52:03Z,2020-03-17T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T13:52:03Z,2020-03-17T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T13:52:03Z,2020-03-17T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -1923,6 +1959,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:52:03Z,2020-03-17T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:52:03Z,2020-03-17T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T13:52:03Z,2020-03-17T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T13:52:03Z,2020-03-17T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T13:52:43Z,2020-03-18T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T13:52:43Z,2020-03-18T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T13:52:43Z,2020-03-18T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -1975,6 +2012,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T13:52:43Z,2020-03-18T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T13:52:43Z,2020-03-18T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T13:52:43Z,2020-03-18T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T13:52:43Z,2020-03-18T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T14:03:36Z,2020-04-16T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T14:03:36Z,2020-04-16T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T14:03:36Z,2020-04-16T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2027,6 +2065,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T14:03:36Z,2020-04-16T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T14:03:36Z,2020-04-16T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T14:03:36Z,2020-04-16T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T14:03:36Z,2020-04-16T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T14:08:10Z,2020-04-17T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T14:08:10Z,2020-04-17T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T14:08:10Z,2020-04-17T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -2079,6 +2118,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T14:08:10Z,2020-04-17T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T14:08:10Z,2020-04-17T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T14:08:10Z,2020-04-17T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T14:08:10Z,2020-04-17T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T14:10:57Z,2020-04-20T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T14:10:57Z,2020-04-20T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1
 2020-06-15T14:10:57Z,2020-04-20T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1
@@ -2131,6 +2171,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T14:10:57Z,2020-04-20T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T14:10:57Z,2020-04-20T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T14:10:57Z,2020-04-20T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T14:10:57Z,2020-04-20T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T15:36:04Z,2020-04-21T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:36:04Z,2020-04-21T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:36:04Z,2020-04-21T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2183,6 +2224,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:36:04Z,2020-04-21T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:36:04Z,2020-04-21T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:36:04Z,2020-04-21T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:36:04Z,2020-04-21T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:36:34Z,2020-04-22T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:36:34Z,2020-04-22T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:36:34Z,2020-04-22T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2235,6 +2277,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:36:34Z,2020-04-22T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:36:34Z,2020-04-22T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:36:34Z,2020-04-22T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:36:34Z,2020-04-22T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:37:15Z,2020-04-23T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:37:15Z,2020-04-23T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:37:15Z,2020-04-23T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2287,6 +2330,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:37:15Z,2020-04-23T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:37:15Z,2020-04-23T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:37:15Z,2020-04-23T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:37:15Z,2020-04-23T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:37:42Z,2020-04-28T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:37:42Z,2020-04-28T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:37:42Z,2020-04-28T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2339,6 +2383,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:37:42Z,2020-04-28T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:37:42Z,2020-04-28T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:37:42Z,2020-04-28T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:37:42Z,2020-04-28T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:38:47Z,2020-04-29T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:38:47Z,2020-04-29T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:38:47Z,2020-04-29T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2391,6 +2436,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:38:47Z,2020-04-29T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:38:47Z,2020-04-29T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:38:47Z,2020-04-29T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:38:47Z,2020-04-29T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:39:51Z,2020-04-30T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:39:51Z,2020-04-30T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:39:51Z,2020-04-30T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2443,6 +2489,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:39:51Z,2020-04-30T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:39:51Z,2020-04-30T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:39:51Z,2020-04-30T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:39:51Z,2020-04-30T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:43:51Z,2020-05-07T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T15:43:51Z,2020-05-07T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T15:43:51Z,2020-05-07T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -2495,6 +2542,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:43:51Z,2020-05-07T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:43:51Z,2020-05-07T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T15:43:51Z,2020-05-07T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T15:43:51Z,2020-05-07T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T15:44:26Z,2020-05-08T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:44:26Z,2020-05-08T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:44:26Z,2020-05-08T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2547,6 +2595,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:44:26Z,2020-05-08T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:44:26Z,2020-05-08T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:44:26Z,2020-05-08T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:44:26Z,2020-05-08T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:45:58Z,2020-05-11T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:45:58Z,2020-05-11T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:45:58Z,2020-05-11T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,3
@@ -2599,6 +2648,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:45:58Z,2020-05-11T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:45:58Z,2020-05-11T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:45:58Z,2020-05-11T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:45:58Z,2020-05-11T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:47:05Z,2020-05-12T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:47:05Z,2020-05-12T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:47:05Z,2020-05-12T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2651,6 +2701,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:47:05Z,2020-05-12T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:47:05Z,2020-05-12T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:47:05Z,2020-05-12T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:47:05Z,2020-05-12T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:47:58Z,2020-05-13T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:47:58Z,2020-05-13T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:47:58Z,2020-05-13T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2703,6 +2754,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:47:58Z,2020-05-13T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:47:58Z,2020-05-13T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:47:58Z,2020-05-13T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:47:58Z,2020-05-13T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:50:05Z,2020-05-14T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:50:05Z,2020-05-14T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:50:05Z,2020-05-14T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2755,6 +2807,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:50:05Z,2020-05-14T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:50:05Z,2020-05-14T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:50:05Z,2020-05-14T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:50:05Z,2020-05-14T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:52:04Z,2020-05-15T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-15T15:52:04Z,2020-05-15T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-15T15:52:04Z,2020-05-15T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -2807,6 +2860,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:52:04Z,2020-05-15T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:52:04Z,2020-05-15T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-15T15:52:04Z,2020-05-15T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-15T15:52:04Z,2020-05-15T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-15T15:56:53Z,2020-05-18T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T15:56:53Z,2020-05-18T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T15:56:53Z,2020-05-18T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -2859,6 +2913,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T15:56:53Z,2020-05-18T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T15:56:53Z,2020-05-18T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T15:56:53Z,2020-05-18T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T15:56:53Z,2020-05-18T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-15T16:00:18Z,2020-05-19T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-15T16:00:18Z,2020-05-19T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-15T16:00:18Z,2020-05-19T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -2911,6 +2966,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-15T16:00:18Z,2020-05-19T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-15T16:00:18Z,2020-05-19T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-15T16:00:18Z,2020-05-19T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-15T16:00:18Z,2020-05-19T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-16T14:27:08Z,2020-05-20T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-16T14:27:08Z,2020-05-20T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-16T14:27:08Z,2020-05-20T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -2963,6 +3019,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:27:08Z,2020-05-20T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:27:08Z,2020-05-20T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-16T14:27:08Z,2020-05-20T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-16T14:27:08Z,2020-05-20T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-16T14:29:40Z,2020-05-20T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-16T14:29:40Z,2020-05-20T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,2
 2020-06-16T14:29:40Z,2020-05-20T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,2
@@ -3015,6 +3072,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:29:40Z,2020-05-20T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:29:40Z,2020-05-20T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-16T14:29:40Z,2020-05-20T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-16T14:29:40Z,2020-05-20T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-16T14:36:24Z,2020-05-21T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-16T14:36:24Z,2020-05-21T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-16T14:36:24Z,2020-05-21T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3067,6 +3125,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:36:24Z,2020-05-21T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:36:24Z,2020-05-21T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-16T14:36:24Z,2020-05-21T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-16T14:36:24Z,2020-05-21T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-16T14:36:57Z,2020-05-22T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-16T14:36:57Z,2020-05-22T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-16T14:36:57Z,2020-05-22T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -3119,6 +3178,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:36:57Z,2020-05-22T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:36:57Z,2020-05-22T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-16T14:36:57Z,2020-05-22T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-16T14:36:57Z,2020-05-22T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-16T14:37:25Z,2020-06-12T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-16T14:37:25Z,2020-06-12T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,7
 2020-06-16T14:37:25Z,2020-06-12T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -3171,6 +3231,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:37:25Z,2020-06-12T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:37:25Z,2020-06-12T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-16T14:37:25Z,2020-06-12T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-16T14:37:25Z,2020-06-12T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-16T14:40:33Z,2020-06-16T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-16T14:40:33Z,2020-06-16T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-16T14:40:33Z,2020-06-16T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -3223,6 +3284,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:40:33Z,2020-06-16T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:40:33Z,2020-06-16T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-16T14:40:33Z,2020-06-16T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-16T14:40:33Z,2020-06-16T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-16T14:41:52Z,2020-05-26T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-16T14:41:52Z,2020-05-26T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1
 2020-06-16T14:41:52Z,2020-05-26T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,2
@@ -3275,6 +3337,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:41:52Z,2020-05-26T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:41:52Z,2020-05-26T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-16T14:41:52Z,2020-05-26T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-16T14:41:52Z,2020-05-26T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-16T14:42:24Z,2020-05-27T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-16T14:42:24Z,2020-05-27T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-16T14:42:24Z,2020-05-27T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3327,6 +3390,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:42:24Z,2020-05-27T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:42:24Z,2020-05-27T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-16T14:42:24Z,2020-05-27T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-16T14:42:24Z,2020-05-27T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-16T14:43:35Z,2020-05-28T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-16T14:43:35Z,2020-05-28T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-16T14:43:35Z,2020-05-28T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -3379,6 +3443,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:43:35Z,2020-05-28T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:43:35Z,2020-05-28T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-16T14:43:35Z,2020-05-28T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-16T14:43:35Z,2020-05-28T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-16T14:44:46Z,2020-05-29T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-16T14:44:46Z,2020-05-29T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-16T14:44:46Z,2020-05-29T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3431,6 +3496,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-16T14:44:46Z,2020-05-29T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-16T14:44:46Z,2020-05-29T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-16T14:44:46Z,2020-05-29T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-16T14:44:46Z,2020-05-29T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-17T14:03:48Z,2020-06-16T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-17T14:03:48Z,2020-06-16T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2
 2020-06-17T14:03:48Z,2020-06-16T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,2
@@ -3483,6 +3549,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-17T14:03:48Z,2020-06-16T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-17T14:03:48Z,2020-06-16T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-17T14:03:48Z,2020-06-16T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-17T14:03:48Z,2020-06-16T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-18T14:07:45Z,2020-06-17T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-18T14:07:45Z,2020-06-17T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-18T14:07:45Z,2020-06-17T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -3535,6 +3602,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-18T14:07:45Z,2020-06-17T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-18T14:07:45Z,2020-06-17T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-18T14:07:45Z,2020-06-17T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-18T14:07:45Z,2020-06-17T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-18T14:11:56Z,2020-06-18T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-18T14:11:56Z,2020-06-18T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1
 2020-06-18T14:11:56Z,2020-06-18T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3587,6 +3655,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-18T14:11:56Z,2020-06-18T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-18T14:11:56Z,2020-06-18T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-18T14:11:56Z,2020-06-18T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-18T14:11:56Z,2020-06-18T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-19T13:58:40Z,2020-06-18T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-19T13:58:40Z,2020-06-18T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-19T13:58:40Z,2020-06-18T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -3639,6 +3708,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-19T13:58:40Z,2020-06-18T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-19T13:58:40Z,2020-06-18T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-19T13:58:40Z,2020-06-18T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-19T13:58:40Z,2020-06-18T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-19T14:46:28Z,2020-06-19T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-19T14:46:28Z,2020-06-19T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,2
 2020-06-19T14:46:28Z,2020-06-19T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3691,6 +3761,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-19T14:46:28Z,2020-06-19T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-19T14:46:28Z,2020-06-19T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-19T14:46:28Z,2020-06-19T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-19T14:46:28Z,2020-06-19T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-23T14:39:49Z,2020-06-23T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-23T14:39:49Z,2020-06-23T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-06-23T14:39:49Z,2020-06-23T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -3743,6 +3814,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-23T14:39:49Z,2020-06-23T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-23T14:39:49Z,2020-06-23T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-23T14:39:49Z,2020-06-23T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-23T14:39:49Z,2020-06-23T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-24T12:18:48Z,2020-06-23T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-24T12:18:48Z,2020-06-23T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,6
 2020-06-24T12:18:48Z,2020-06-23T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,2
@@ -3795,6 +3867,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-24T12:18:48Z,2020-06-23T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-24T12:18:48Z,2020-06-23T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-24T12:18:48Z,2020-06-23T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-24T12:18:48Z,2020-06-23T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-24T12:24:27Z,2020-06-24T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-24T12:24:27Z,2020-06-24T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-24T12:24:27Z,2020-06-24T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3847,6 +3920,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-24T12:24:27Z,2020-06-24T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-24T12:24:27Z,2020-06-24T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-24T12:24:27Z,2020-06-24T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-24T12:24:27Z,2020-06-24T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-25T12:41:29Z,2020-06-25T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-25T12:41:29Z,2020-06-25T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-25T12:41:29Z,2020-06-25T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3899,6 +3973,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-25T12:41:29Z,2020-06-25T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-25T12:41:29Z,2020-06-25T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-25T12:41:29Z,2020-06-25T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-25T12:41:29Z,2020-06-25T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-26T12:47:56Z,2020-06-26T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-06-26T12:47:56Z,2020-06-26T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-06-26T12:47:56Z,2020-06-26T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -3951,6 +4026,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-26T12:47:56Z,2020-06-26T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-26T12:47:56Z,2020-06-26T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-06-26T12:47:56Z,2020-06-26T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-06-26T12:47:56Z,2020-06-26T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-06-30T07:37:57Z,2020-06-26T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-30T07:37:57Z,2020-06-26T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,7
 2020-06-30T07:37:57Z,2020-06-26T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,2
@@ -4003,6 +4079,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-30T07:37:57Z,2020-06-26T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-30T07:37:57Z,2020-06-26T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-30T07:37:57Z,2020-06-26T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-30T07:37:57Z,2020-06-26T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-06-30T14:17:13Z,2020-06-26T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-06-30T14:17:13Z,2020-06-26T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,7
 2020-06-30T14:17:13Z,2020-06-26T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,2
@@ -4055,6 +4132,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-06-30T14:17:13Z,2020-06-26T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-06-30T14:17:13Z,2020-06-26T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-06-30T14:17:13Z,2020-06-26T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-06-30T14:17:13Z,2020-06-26T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-01T15:04:54Z,2020-06-30T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-01T15:04:54Z,2020-06-30T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-07-01T15:04:54Z,2020-06-30T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1
@@ -4107,6 +4185,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-01T15:04:54Z,2020-06-30T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-01T15:04:54Z,2020-06-30T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-01T15:04:54Z,2020-06-30T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-01T15:04:54Z,2020-06-30T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-02T09:44:04Z,2020-07-01T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-02T09:44:04Z,2020-07-01T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-07-02T09:44:04Z,2020-07-01T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -4159,6 +4238,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-02T09:44:04Z,2020-07-01T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-02T09:44:04Z,2020-07-01T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-02T09:44:04Z,2020-07-01T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-02T09:44:04Z,2020-07-01T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-03T12:23:48Z,2020-07-02T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-03T12:23:48Z,2020-07-02T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,7
 2020-07-03T12:23:48Z,2020-07-02T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -4211,6 +4291,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-03T12:23:48Z,2020-07-02T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-03T12:23:48Z,2020-07-02T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-03T12:23:48Z,2020-07-02T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-03T12:23:48Z,2020-07-02T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-07T11:58:18Z,2020-07-06T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-07T11:58:18Z,2020-07-06T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-07T11:58:18Z,2020-07-06T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,1
@@ -4263,6 +4344,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-07T11:58:18Z,2020-07-06T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-07T11:58:18Z,2020-07-06T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-07T11:58:18Z,2020-07-06T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-07T11:58:18Z,2020-07-06T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-07T11:59:32Z,2020-07-07T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-07T11:59:32Z,2020-07-07T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-07T11:59:32Z,2020-07-07T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,1
@@ -4315,6 +4397,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-07T11:59:32Z,2020-07-07T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-07T11:59:32Z,2020-07-07T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-07T11:59:32Z,2020-07-07T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-07T11:59:32Z,2020-07-07T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-08T14:49:42Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-08T14:49:42Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,5
 2020-07-08T14:49:42Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,2
@@ -4367,6 +4450,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-08T14:49:42Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-08T14:49:42Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-08T14:49:42Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-08T14:49:42Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-09T09:44:33Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-09T09:44:33Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,4
 2020-07-09T09:44:33Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -4419,6 +4503,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-09T09:44:33Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-09T09:44:33Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-09T09:44:33Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-09T09:44:33Z,2020-07-08T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-10T11:17:10Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,0
 2020-07-10T11:17:10Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,3.2
 2020-07-10T11:17:10Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0
@@ -4471,6 +4556,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-10T11:17:10Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,5
 2020-07-10T11:17:10Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,0
 2020-07-10T11:17:10Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,0
+2020-07-10T11:17:10Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-13T12:44:40Z,2020-07-10T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,0
 2020-07-13T12:44:40Z,2020-07-10T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.154
 2020-07-13T12:44:40Z,2020-07-10T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0
@@ -4523,6 +4609,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-13T12:44:40Z,2020-07-10T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,0
 2020-07-13T12:44:40Z,2020-07-10T00:00:00Z,Omaira Pacheco,Rosas - Ramo,0
 2020-07-13T12:44:40Z,2020-07-10T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,0
+2020-07-13T12:44:40Z,2020-07-10T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-14T09:45:49Z,2020-07-13T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-14T09:45:49Z,2020-07-13T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.438
 2020-07-14T09:45:49Z,2020-07-13T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.5
@@ -4575,6 +4662,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-14T09:45:49Z,2020-07-13T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-14T09:45:49Z,2020-07-13T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-14T09:45:49Z,2020-07-13T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-14T09:45:49Z,2020-07-13T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-14T14:55:13Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-14T14:55:13Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-14T14:55:13Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -4627,6 +4715,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-14T14:55:13Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-14T14:55:13Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-14T14:55:13Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-14T14:55:13Z,2020-07-09T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-14T14:59:49Z,2020-07-14T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-14T14:59:49Z,2020-07-14T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-14T14:59:49Z,2020-07-14T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -4679,6 +4768,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-14T14:59:49Z,2020-07-14T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-14T14:59:49Z,2020-07-14T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-14T14:59:49Z,2020-07-14T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-14T14:59:49Z,2020-07-14T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-15T15:01:52Z,2020-07-14T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,0
 2020-07-15T15:01:52Z,2020-07-14T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.764
 2020-07-15T15:01:52Z,2020-07-14T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.242
@@ -4731,6 +4821,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-15T15:01:52Z,2020-07-14T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,0
 2020-07-15T15:01:52Z,2020-07-14T00:00:00Z,Omaira Pacheco,Rosas - Ramo,0
 2020-07-15T15:01:52Z,2020-07-14T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,0
+2020-07-15T15:01:52Z,2020-07-14T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-16T12:54:56Z,2020-07-15T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-16T12:54:56Z,2020-07-15T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,560
 2020-07-16T12:54:56Z,2020-07-15T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -4783,6 +4874,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-16T12:54:56Z,2020-07-15T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-16T12:54:56Z,2020-07-15T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-16T12:54:56Z,2020-07-15T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-16T12:54:56Z,2020-07-15T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-17T12:34:36Z,2020-07-16T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-17T12:34:36Z,2020-07-16T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.04
 2020-07-17T12:34:36Z,2020-07-16T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.43
@@ -4835,6 +4927,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-17T12:34:36Z,2020-07-16T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-17T12:34:36Z,2020-07-16T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-17T12:34:36Z,2020-07-16T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-17T12:34:36Z,2020-07-16T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-17T14:41:00Z,2020-07-17T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-17T14:41:00Z,2020-07-17T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-17T14:41:00Z,2020-07-17T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -4887,6 +4980,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-17T14:41:00Z,2020-07-17T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-17T14:41:00Z,2020-07-17T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-17T14:41:00Z,2020-07-17T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-17T14:41:00Z,2020-07-17T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-21T13:31:14Z,2020-07-17T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-21T13:31:14Z,2020-07-17T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-07-21T13:31:14Z,2020-07-17T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -4939,6 +5033,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-21T13:31:14Z,2020-07-17T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-21T13:31:14Z,2020-07-17T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-21T13:31:14Z,2020-07-17T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-21T13:31:14Z,2020-07-17T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-22T14:43:51Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-22T14:43:51Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1.724
 2020-07-22T14:43:51Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -4991,6 +5086,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-22T14:43:51Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-22T14:43:51Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-22T14:43:51Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-22T14:43:51Z,2020-07-21T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-22T14:50:40Z,2020-07-22T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-22T14:50:40Z,2020-07-22T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-22T14:50:40Z,2020-07-22T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5043,6 +5139,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-22T14:50:40Z,2020-07-22T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-22T14:50:40Z,2020-07-22T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-22T14:50:40Z,2020-07-22T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-22T14:50:40Z,2020-07-22T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-22T15:21:50Z,2020-07-22T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-22T15:21:50Z,2020-07-22T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-07-22T15:21:50Z,2020-07-22T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -5095,6 +5192,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-22T15:21:50Z,2020-07-22T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-22T15:21:50Z,2020-07-22T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-22T15:21:50Z,2020-07-22T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-22T15:21:50Z,2020-07-22T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-24T09:32:42Z,2020-07-24T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-24T09:32:42Z,2020-07-24T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1.044
 2020-07-24T09:32:42Z,2020-07-24T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5147,6 +5245,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-24T09:32:42Z,2020-07-24T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-24T09:32:42Z,2020-07-24T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-24T09:32:42Z,2020-07-24T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-24T09:32:42Z,2020-07-24T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-27T10:48:20Z,2020-07-24T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-27T10:48:20Z,2020-07-24T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.46
 2020-07-27T10:48:20Z,2020-07-24T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,60
@@ -5199,6 +5298,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-27T10:48:20Z,2020-07-24T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-27T10:48:20Z,2020-07-24T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-27T10:48:20Z,2020-07-24T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-27T10:48:20Z,2020-07-24T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-27T13:58:33Z,2020-07-27T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-27T13:58:33Z,2020-07-27T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-27T13:58:33Z,2020-07-27T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5251,6 +5351,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-27T13:58:33Z,2020-07-27T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-27T13:58:33Z,2020-07-27T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-27T13:58:33Z,2020-07-27T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-27T13:58:33Z,2020-07-27T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-28T12:11:44Z,2020-07-27T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-28T12:11:44Z,2020-07-27T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.56
 2020-07-28T12:11:44Z,2020-07-27T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.92
@@ -5303,6 +5404,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-28T12:11:44Z,2020-07-27T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-28T12:11:44Z,2020-07-27T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-28T12:11:44Z,2020-07-27T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-28T12:11:44Z,2020-07-27T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-28T13:04:12Z,2020-07-28T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-28T13:04:12Z,2020-07-28T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-28T13:04:12Z,2020-07-28T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5355,6 +5457,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-28T13:04:12Z,2020-07-28T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-28T13:04:12Z,2020-07-28T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-28T13:04:12Z,2020-07-28T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-28T13:04:12Z,2020-07-28T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-29T12:06:02Z,2020-07-28T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,0
 2020-07-29T12:06:02Z,2020-07-28T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0
 2020-07-29T12:06:02Z,2020-07-28T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0
@@ -5407,6 +5510,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-29T12:06:02Z,2020-07-28T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,0
 2020-07-29T12:06:02Z,2020-07-28T00:00:00Z,Omaira Pacheco,Rosas - Ramo,0
 2020-07-29T12:06:02Z,2020-07-28T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,0
+2020-07-29T12:06:02Z,2020-07-28T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-29T12:10:35Z,2020-07-29T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,0
 2020-07-29T12:10:35Z,2020-07-29T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0
 2020-07-29T12:10:35Z,2020-07-29T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.48
@@ -5459,6 +5563,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-29T12:10:35Z,2020-07-29T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,0
 2020-07-29T12:10:35Z,2020-07-29T00:00:00Z,Omaira Pacheco,Rosas - Ramo,0
 2020-07-29T12:10:35Z,2020-07-29T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,0
+2020-07-29T12:10:35Z,2020-07-29T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-29T14:27:35Z,2020-07-29T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-29T14:27:35Z,2020-07-29T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-29T14:27:35Z,2020-07-29T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5511,6 +5616,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-29T14:27:35Z,2020-07-29T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-29T14:27:35Z,2020-07-29T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-29T14:27:35Z,2020-07-29T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-29T14:27:35Z,2020-07-29T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-30T12:41:56Z,2020-07-29T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-07-30T12:41:56Z,2020-07-29T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-07-30T12:41:56Z,2020-07-29T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -5563,6 +5669,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-30T12:41:56Z,2020-07-29T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-30T12:41:56Z,2020-07-29T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-07-30T12:41:56Z,2020-07-29T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-07-30T12:41:56Z,2020-07-29T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-30T14:30:33Z,2020-07-30T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-07-30T14:30:33Z,2020-07-30T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-07-30T14:30:33Z,2020-07-30T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5615,6 +5722,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-30T14:30:33Z,2020-07-30T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-07-30T14:30:33Z,2020-07-30T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-07-30T14:30:33Z,2020-07-30T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-07-30T14:30:33Z,2020-07-30T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-07-30T14:38:32Z,2020-07-30T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,0
 2020-07-30T14:38:32Z,2020-07-30T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,4.16
 2020-07-30T14:38:32Z,2020-07-30T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.22
@@ -5667,6 +5775,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-30T14:38:32Z,2020-07-30T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,0
 2020-07-30T14:38:32Z,2020-07-30T00:00:00Z,Omaira Pacheco,Rosas - Ramo,0
 2020-07-30T14:38:32Z,2020-07-30T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,0
+2020-07-30T14:38:32Z,2020-07-30T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-07-31T12:46:26Z,2020-07-31T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,0
 2020-07-31T12:46:26Z,2020-07-31T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,3.34
 2020-07-31T12:46:26Z,2020-07-31T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.32
@@ -5719,6 +5828,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-07-31T12:46:26Z,2020-07-31T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,0
 2020-07-31T12:46:26Z,2020-07-31T00:00:00Z,Omaira Pacheco,Rosas - Ramo,0
 2020-07-31T12:46:26Z,2020-07-31T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,0
+2020-07-31T12:46:26Z,2020-07-31T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-03T10:23:35Z,2020-08-03T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-03T10:23:35Z,2020-08-03T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,0.238
 2020-08-03T10:23:35Z,2020-08-03T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5771,6 +5881,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-03T10:23:35Z,2020-08-03T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-03T10:23:35Z,2020-08-03T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-03T10:23:35Z,2020-08-03T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-03T10:23:35Z,2020-08-03T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-03T15:39:44Z,2020-08-03T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-03T15:39:44Z,2020-08-03T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-08-03T15:39:44Z,2020-08-03T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -5823,6 +5934,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-03T15:39:44Z,2020-08-03T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-03T15:39:44Z,2020-08-03T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-03T15:39:44Z,2020-08-03T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-03T15:39:44Z,2020-08-03T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-04T11:10:29Z,2020-08-04T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-04T11:10:29Z,2020-08-04T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-04T11:10:29Z,2020-08-04T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -5875,6 +5987,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-04T11:10:29Z,2020-08-04T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-04T11:10:29Z,2020-08-04T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-04T11:10:29Z,2020-08-04T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-04T11:10:29Z,2020-08-04T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-04T14:08:45Z,2020-08-04T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-04T14:08:45Z,2020-08-04T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-08-04T14:08:45Z,2020-08-04T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -5927,6 +6040,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-04T14:08:45Z,2020-08-04T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-04T14:08:45Z,2020-08-04T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-04T14:08:45Z,2020-08-04T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-04T14:08:45Z,2020-08-04T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-05T12:30:53Z,2020-08-05T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-05T12:30:53Z,2020-08-05T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-05T12:30:53Z,2020-08-05T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.1
@@ -5979,6 +6093,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-05T12:30:53Z,2020-08-05T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-05T12:30:53Z,2020-08-05T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-05T12:30:53Z,2020-08-05T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-05T12:30:53Z,2020-08-05T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-06T12:59:13Z,2020-08-06T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-06T12:59:13Z,2020-08-06T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-06T12:59:13Z,2020-08-06T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -6031,6 +6146,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-06T12:59:13Z,2020-08-06T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-06T12:59:13Z,2020-08-06T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-06T12:59:13Z,2020-08-06T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-06T12:59:13Z,2020-08-06T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-10T09:45:24Z,2020-08-06T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-10T09:45:24Z,2020-08-06T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.6
 2020-08-10T09:45:24Z,2020-08-06T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.84
@@ -6083,6 +6199,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-10T09:45:24Z,2020-08-06T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-10T09:45:24Z,2020-08-06T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-10T09:45:24Z,2020-08-06T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-10T09:45:24Z,2020-08-06T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-10T15:22:19Z,2020-08-10T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-10T15:22:19Z,2020-08-10T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-10T15:22:19Z,2020-08-10T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -6135,6 +6252,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-10T15:22:19Z,2020-08-10T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-10T15:22:19Z,2020-08-10T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-10T15:22:19Z,2020-08-10T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-10T15:22:19Z,2020-08-10T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-11T10:03:14Z,2020-08-10T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-11T10:03:14Z,2020-08-10T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.674
 2020-08-11T10:03:14Z,2020-08-10T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.366
@@ -6187,6 +6305,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-11T10:03:14Z,2020-08-10T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-11T10:03:14Z,2020-08-10T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-11T10:03:14Z,2020-08-10T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-11T10:03:14Z,2020-08-10T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-12T10:03:55Z,2020-08-11T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-12T10:03:55Z,2020-08-11T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.75
 2020-08-12T10:03:55Z,2020-08-11T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,576
@@ -6239,6 +6358,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-12T10:03:55Z,2020-08-11T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-12T10:03:55Z,2020-08-11T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-12T10:03:55Z,2020-08-11T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-12T10:03:55Z,2020-08-11T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-13T12:40:38Z,2020-08-12T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,0
 2020-08-13T12:40:38Z,2020-08-12T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.57
 2020-08-13T12:40:38Z,2020-08-12T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.46
@@ -6291,6 +6411,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-13T12:40:38Z,2020-08-12T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,0
 2020-08-13T12:40:38Z,2020-08-12T00:00:00Z,Omaira Pacheco,Rosas - Ramo,0
 2020-08-13T12:40:38Z,2020-08-12T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,0
+2020-08-13T12:40:38Z,2020-08-12T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-14T11:43:12Z,2020-08-13T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-14T11:43:12Z,2020-08-13T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.594
 2020-08-14T11:43:12Z,2020-08-13T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1.028
@@ -6343,6 +6464,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-14T11:43:12Z,2020-08-13T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-14T11:43:12Z,2020-08-13T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-14T11:43:12Z,2020-08-13T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-14T11:43:12Z,2020-08-13T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-18T14:40:17Z,2020-08-18T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-18T14:40:17Z,2020-08-18T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-08-18T14:40:17Z,2020-08-18T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -6395,6 +6517,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-18T14:40:17Z,2020-08-18T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-18T14:40:17Z,2020-08-18T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-18T14:40:17Z,2020-08-18T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-18T14:40:17Z,2020-08-18T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-18T15:15:58Z,2020-08-18T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-18T15:15:58Z,2020-08-18T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,1.012
 2020-08-18T15:15:58Z,2020-08-18T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.524
@@ -6447,6 +6570,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-18T15:15:58Z,2020-08-18T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-18T15:15:58Z,2020-08-18T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-18T15:15:58Z,2020-08-18T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-18T15:15:58Z,2020-08-18T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-19T09:35:16Z,2020-08-19T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-19T09:35:16Z,2020-08-19T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-19T09:35:16Z,2020-08-19T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -6499,6 +6623,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-19T09:35:16Z,2020-08-19T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-19T09:35:16Z,2020-08-19T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-19T09:35:16Z,2020-08-19T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-19T09:35:16Z,2020-08-19T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-20T15:29:24Z,2020-08-20T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-20T15:29:24Z,2020-08-20T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.792
 2020-08-20T15:29:24Z,2020-08-20T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -6551,6 +6676,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-20T15:29:24Z,2020-08-20T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-20T15:29:24Z,2020-08-20T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-20T15:29:24Z,2020-08-20T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-20T15:29:24Z,2020-08-20T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-21T11:54:01Z,2020-08-20T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-21T11:54:01Z,2020-08-20T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-21T11:54:01Z,2020-08-20T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -6603,6 +6729,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-21T11:54:01Z,2020-08-20T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-21T11:54:01Z,2020-08-20T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-21T11:54:01Z,2020-08-20T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-21T11:54:01Z,2020-08-20T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-21T11:57:04Z,2020-08-21T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-21T11:57:04Z,2020-08-21T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-21T11:57:04Z,2020-08-21T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -6655,6 +6782,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-21T11:57:04Z,2020-08-21T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-21T11:57:04Z,2020-08-21T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-21T11:57:04Z,2020-08-21T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-21T11:57:04Z,2020-08-21T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-24T12:16:56Z,2020-08-21T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-24T12:16:56Z,2020-08-21T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,5.578
 2020-08-24T12:16:56Z,2020-08-21T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,2.484
@@ -6707,6 +6835,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-24T12:16:56Z,2020-08-21T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-24T12:16:56Z,2020-08-21T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-24T12:16:56Z,2020-08-21T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-24T12:16:56Z,2020-08-21T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-25T11:59:51Z,2020-08-24T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-25T11:59:51Z,2020-08-24T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.295
 2020-08-25T11:59:51Z,2020-08-24T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -6759,6 +6888,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-25T11:59:51Z,2020-08-24T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-25T11:59:51Z,2020-08-24T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-25T11:59:51Z,2020-08-24T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-25T11:59:51Z,2020-08-24T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-25T12:06:41Z,2020-08-25T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-25T12:06:41Z,2020-08-25T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-08-25T12:06:41Z,2020-08-25T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -6811,6 +6941,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-25T12:06:41Z,2020-08-25T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-25T12:06:41Z,2020-08-25T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-25T12:06:41Z,2020-08-25T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-25T12:06:41Z,2020-08-25T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-25T12:57:40Z,2020-08-24T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-25T12:57:40Z,2020-08-24T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-08-25T12:57:40Z,2020-08-24T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -6863,6 +6994,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-25T12:57:40Z,2020-08-24T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-25T12:57:40Z,2020-08-24T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-25T12:57:40Z,2020-08-24T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-25T12:57:40Z,2020-08-24T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-26T12:44:54Z,2020-08-25T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-26T12:44:54Z,2020-08-25T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,3.102
 2020-08-26T12:44:54Z,2020-08-25T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1.042
@@ -6915,6 +7047,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-26T12:44:54Z,2020-08-25T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-26T12:44:54Z,2020-08-25T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-26T12:44:54Z,2020-08-25T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-26T12:44:54Z,2020-08-25T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-27T12:51:49Z,2020-08-26T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-27T12:51:49Z,2020-08-26T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,4.86
 2020-08-27T12:51:49Z,2020-08-26T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,128.6
@@ -6967,6 +7100,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-27T12:51:49Z,2020-08-26T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-27T12:51:49Z,2020-08-26T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-27T12:51:49Z,2020-08-26T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-27T12:51:49Z,2020-08-26T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-31T12:22:07Z,2020-08-31T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-08-31T12:22:07Z,2020-08-31T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,4.8
 2020-08-31T12:22:07Z,2020-08-31T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.656
@@ -7019,6 +7153,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-31T12:22:07Z,2020-08-31T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-31T12:22:07Z,2020-08-31T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-08-31T12:22:07Z,2020-08-31T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-08-31T12:22:07Z,2020-08-31T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-08-31T13:37:34Z,2020-08-27T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-31T13:37:34Z,2020-08-27T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-08-31T13:37:34Z,2020-08-27T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7071,6 +7206,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-31T13:37:34Z,2020-08-27T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-31T13:37:34Z,2020-08-27T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-31T13:37:34Z,2020-08-27T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-31T13:37:34Z,2020-08-27T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-08-31T13:39:45Z,2020-08-28T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-08-31T13:39:45Z,2020-08-28T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-08-31T13:39:45Z,2020-08-28T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7123,6 +7259,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-08-31T13:39:45Z,2020-08-28T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-08-31T13:39:45Z,2020-08-28T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-08-31T13:39:45Z,2020-08-28T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-08-31T13:39:45Z,2020-08-28T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-01T12:01:48Z,2020-09-01T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-09-01T12:01:48Z,2020-09-01T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-09-01T12:01:48Z,2020-09-01T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -7175,6 +7312,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-01T12:01:48Z,2020-09-01T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-01T12:01:48Z,2020-09-01T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-09-01T12:01:48Z,2020-09-01T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-09-01T12:01:48Z,2020-09-01T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-09-01T14:18:34Z,2020-08-31T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-01T14:18:34Z,2020-08-31T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-01T14:18:34Z,2020-08-31T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7227,6 +7365,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-01T14:18:34Z,2020-08-31T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-01T14:18:34Z,2020-08-31T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-01T14:18:34Z,2020-08-31T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-01T14:18:34Z,2020-08-31T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-02T12:37:51Z,2020-09-02T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-09-02T12:37:51Z,2020-09-02T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-09-02T12:37:51Z,2020-09-02T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.2
@@ -7279,6 +7418,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-02T12:37:51Z,2020-09-02T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-02T12:37:51Z,2020-09-02T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-09-02T12:37:51Z,2020-09-02T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-09-02T12:37:51Z,2020-09-02T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-09-02T14:29:41Z,2020-09-01T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-02T14:29:41Z,2020-09-01T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-02T14:29:41Z,2020-09-01T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7331,6 +7471,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-02T14:29:41Z,2020-09-01T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-02T14:29:41Z,2020-09-01T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-02T14:29:41Z,2020-09-01T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-02T14:29:41Z,2020-09-01T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-02T14:59:25Z,2020-09-02T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-02T14:59:25Z,2020-09-02T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-02T14:59:25Z,2020-09-02T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7383,6 +7524,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-02T14:59:25Z,2020-09-02T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-02T14:59:25Z,2020-09-02T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-02T14:59:25Z,2020-09-02T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-02T14:59:25Z,2020-09-02T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-03T12:11:18Z,2020-09-03T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-09-03T12:11:18Z,2020-09-03T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,0.458
 2020-09-03T12:11:18Z,2020-09-03T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.34
@@ -7435,6 +7577,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-03T12:11:18Z,2020-09-03T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-03T12:11:18Z,2020-09-03T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-09-03T12:11:18Z,2020-09-03T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-09-03T12:11:18Z,2020-09-03T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-09-03T14:55:31Z,2020-09-03T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-03T14:55:31Z,2020-09-03T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-03T14:55:31Z,2020-09-03T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7487,6 +7630,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-03T14:55:31Z,2020-09-03T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-03T14:55:31Z,2020-09-03T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-03T14:55:31Z,2020-09-03T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-03T14:55:31Z,2020-09-03T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-04T10:22:33Z,2020-09-04T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-09-04T10:22:33Z,2020-09-04T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,2852
 2020-09-04T10:22:33Z,2020-09-04T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,2250
@@ -7539,6 +7683,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-04T10:22:33Z,2020-09-04T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-04T10:22:33Z,2020-09-04T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-09-04T10:22:33Z,2020-09-04T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-09-04T10:22:33Z,2020-09-04T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-09-07T12:44:02Z,2020-09-04T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-07T12:44:02Z,2020-09-04T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,3.102
 2020-09-07T12:44:02Z,2020-09-04T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.888
@@ -7591,6 +7736,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-07T12:44:02Z,2020-09-04T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-07T12:44:02Z,2020-09-04T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-07T12:44:02Z,2020-09-04T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-07T12:44:02Z,2020-09-04T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-08T12:40:38Z,2020-09-07T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-08T12:40:38Z,2020-09-07T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.024
 2020-09-08T12:40:38Z,2020-09-07T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.812
@@ -7643,6 +7789,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-08T12:40:38Z,2020-09-07T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-08T12:40:38Z,2020-09-07T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-08T12:40:38Z,2020-09-07T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-08T12:40:38Z,2020-09-07T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-09T10:28:02Z,2020-09-08T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-09T10:28:02Z,2020-09-08T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.554
 2020-09-09T10:28:02Z,2020-09-08T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.854
@@ -7695,6 +7842,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-09T10:28:02Z,2020-09-08T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-09T10:28:02Z,2020-09-08T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-09T10:28:02Z,2020-09-08T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-09T10:28:02Z,2020-09-08T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-10T12:20:38Z,2020-09-09T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-10T12:20:38Z,2020-09-09T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.224
 2020-09-10T12:20:38Z,2020-09-09T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1.502
@@ -7747,6 +7895,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-10T12:20:38Z,2020-09-09T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-10T12:20:38Z,2020-09-09T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-10T12:20:38Z,2020-09-09T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-10T12:20:38Z,2020-09-09T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-10T14:37:58Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-10T14:37:58Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-10T14:37:58Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7799,6 +7948,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-10T14:37:58Z,2020-09-10T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-10T14:37:58Z,2020-09-10T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-10T14:37:58Z,2020-09-10T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-10T14:37:58Z,2020-09-10T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-11T12:25:11Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-11T12:25:11Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.416
 2020-09-11T12:25:11Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.62
@@ -7851,6 +8001,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-11T12:25:11Z,2020-09-10T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-11T12:25:11Z,2020-09-10T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-11T12:25:11Z,2020-09-10T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-11T12:25:11Z,2020-09-10T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-14T13:48:26Z,2020-09-11T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-14T13:48:26Z,2020-09-11T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.5
 2020-09-14T13:48:26Z,2020-09-11T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1.134
@@ -7903,6 +8054,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-14T13:48:26Z,2020-09-11T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-14T13:48:26Z,2020-09-11T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-14T13:48:26Z,2020-09-11T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-14T13:48:26Z,2020-09-11T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-14T13:50:50Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-14T13:50:50Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-14T13:50:50Z,2020-09-10T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -7955,6 +8107,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-14T13:50:50Z,2020-09-10T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-14T13:50:50Z,2020-09-10T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-14T13:50:50Z,2020-09-10T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-14T13:50:50Z,2020-09-10T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-15T12:10:19Z,2020-09-14T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-15T12:10:19Z,2020-09-14T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.2
 2020-09-15T12:10:19Z,2020-09-14T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1
@@ -8007,6 +8160,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-15T12:10:19Z,2020-09-14T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-15T12:10:19Z,2020-09-14T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-15T12:10:19Z,2020-09-14T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-15T12:10:19Z,2020-09-14T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-16T10:35:22Z,2020-09-15T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-16T10:35:22Z,2020-09-15T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.872
 2020-09-16T10:35:22Z,2020-09-15T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1.104
@@ -8059,6 +8213,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-16T10:35:22Z,2020-09-15T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-16T10:35:22Z,2020-09-15T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-16T10:35:22Z,2020-09-15T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-16T10:35:22Z,2020-09-15T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-17T12:50:42Z,2020-09-16T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-17T12:50:42Z,2020-09-16T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.892
 2020-09-17T12:50:42Z,2020-09-16T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.478
@@ -8111,6 +8266,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-17T12:50:42Z,2020-09-16T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-17T12:50:42Z,2020-09-16T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-17T12:50:42Z,2020-09-16T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-17T12:50:42Z,2020-09-16T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-18T12:03:32Z,2020-09-17T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-18T12:03:32Z,2020-09-17T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.522
 2020-09-18T12:03:32Z,2020-09-17T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.312
@@ -8163,6 +8319,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-18T12:03:32Z,2020-09-17T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-18T12:03:32Z,2020-09-17T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-18T12:03:32Z,2020-09-17T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-18T12:03:32Z,2020-09-17T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-21T10:22:56Z,2020-09-18T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-21T10:22:56Z,2020-09-18T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-21T10:22:56Z,2020-09-18T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -8215,6 +8372,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-21T10:22:56Z,2020-09-18T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-21T10:22:56Z,2020-09-18T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-21T10:22:56Z,2020-09-18T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-21T10:22:56Z,2020-09-18T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-22T12:50:50Z,2020-09-21T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-22T12:50:50Z,2020-09-21T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.554
 2020-09-22T12:50:50Z,2020-09-21T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1.192
@@ -8267,6 +8425,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-22T12:50:50Z,2020-09-21T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-22T12:50:50Z,2020-09-21T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-22T12:50:50Z,2020-09-21T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-22T12:50:50Z,2020-09-21T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-23T10:56:04Z,2020-09-22T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-23T10:56:04Z,2020-09-22T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.968
 2020-09-23T10:56:04Z,2020-09-22T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.578
@@ -8319,6 +8478,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-23T10:56:04Z,2020-09-22T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-23T10:56:04Z,2020-09-22T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-23T10:56:04Z,2020-09-22T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-23T10:56:04Z,2020-09-22T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-23T12:38:10Z,2020-09-23T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-23T12:38:10Z,2020-09-23T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-23T12:38:10Z,2020-09-23T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -8371,6 +8531,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-23T12:38:10Z,2020-09-23T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-23T12:38:10Z,2020-09-23T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-23T12:38:10Z,2020-09-23T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-23T12:38:10Z,2020-09-23T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-24T11:52:51Z,2020-09-23T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-24T11:52:51Z,2020-09-23T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,3.202
 2020-09-24T11:52:51Z,2020-09-23T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,1.174
@@ -8423,6 +8584,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-24T11:52:51Z,2020-09-23T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-24T11:52:51Z,2020-09-23T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-24T11:52:51Z,2020-09-23T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-24T11:52:51Z,2020-09-23T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-25T13:42:15Z,2020-09-24T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-25T13:42:15Z,2020-09-24T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.616
 2020-09-25T13:42:15Z,2020-09-24T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.99
@@ -8475,6 +8637,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-25T13:42:15Z,2020-09-24T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-25T13:42:15Z,2020-09-24T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-25T13:42:15Z,2020-09-24T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-25T13:42:15Z,2020-09-24T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-25T13:44:55Z,2020-09-25T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-25T13:44:55Z,2020-09-25T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-25T13:44:55Z,2020-09-25T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -8527,6 +8690,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-25T13:44:55Z,2020-09-25T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-25T13:44:55Z,2020-09-25T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-25T13:44:55Z,2020-09-25T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-25T13:44:55Z,2020-09-25T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-28T16:27:19Z,2020-09-25T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-28T16:27:19Z,2020-09-25T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.056
 2020-09-28T16:27:19Z,2020-09-25T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -8579,6 +8743,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-28T16:27:19Z,2020-09-25T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-28T16:27:19Z,2020-09-25T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-28T16:27:19Z,2020-09-25T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-28T16:27:19Z,2020-09-25T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-28T16:33:12Z,2020-09-28T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-28T16:33:12Z,2020-09-28T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-09-28T16:33:12Z,2020-09-28T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -8631,6 +8796,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-28T16:33:12Z,2020-09-28T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-28T16:33:12Z,2020-09-28T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-28T16:33:12Z,2020-09-28T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-28T16:33:12Z,2020-09-28T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-29T11:31:59Z,2020-09-28T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-29T11:31:59Z,2020-09-28T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.574
 2020-09-29T11:31:59Z,2020-09-28T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.534
@@ -8683,6 +8849,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-29T11:31:59Z,2020-09-28T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-29T11:31:59Z,2020-09-28T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-29T11:31:59Z,2020-09-28T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-29T11:31:59Z,2020-09-28T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-09-30T12:25:54Z,2020-09-29T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-09-30T12:25:54Z,2020-09-29T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,0.468
 2020-09-30T12:25:54Z,2020-09-29T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.238
@@ -8735,6 +8902,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-09-30T12:25:54Z,2020-09-29T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-09-30T12:25:54Z,2020-09-29T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-09-30T12:25:54Z,2020-09-29T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-09-30T12:25:54Z,2020-09-29T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-10-01T12:20:22Z,2020-09-30T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-10-01T12:20:22Z,2020-09-30T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,2.768
 2020-10-01T12:20:22Z,2020-09-30T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.318
@@ -8787,6 +8955,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-01T12:20:22Z,2020-09-30T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-01T12:20:22Z,2020-09-30T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-10-01T12:20:22Z,2020-09-30T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-10-01T12:20:22Z,2020-09-30T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-10-02T11:05:57Z,2020-10-01T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-10-02T11:05:57Z,2020-10-01T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,1.326
 2020-10-02T11:05:57Z,2020-10-01T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -8839,6 +9008,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-02T11:05:57Z,2020-10-01T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-02T11:05:57Z,2020-10-01T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-10-02T11:05:57Z,2020-10-01T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-10-02T11:05:57Z,2020-10-01T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-10-06T11:54:35Z,2020-10-05T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-10-06T11:54:35Z,2020-10-05T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,0.56
 2020-10-06T11:54:35Z,2020-10-05T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.078
@@ -8891,6 +9061,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-06T11:54:35Z,2020-10-05T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-06T11:54:35Z,2020-10-05T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-10-06T11:54:35Z,2020-10-05T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-10-06T11:54:35Z,2020-10-05T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-10-06T11:55:54Z,2020-10-06T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-10-06T11:55:54Z,2020-10-06T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-10-06T11:55:54Z,2020-10-06T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -8943,6 +9114,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-06T11:55:54Z,2020-10-06T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-06T11:55:54Z,2020-10-06T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-10-06T11:55:54Z,2020-10-06T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-10-06T11:55:54Z,2020-10-06T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-10-06T14:12:33Z,2020-10-06T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-10-06T14:12:33Z,2020-10-06T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-10-06T14:12:33Z,2020-10-06T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -8995,6 +9167,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-06T14:12:33Z,2020-10-06T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-06T14:12:33Z,2020-10-06T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-10-06T14:12:33Z,2020-10-06T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-10-06T14:12:33Z,2020-10-06T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-10-06T14:43:23Z,2020-10-06T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-10-06T14:43:23Z,2020-10-06T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-10-06T14:43:23Z,2020-10-06T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,NA
@@ -9047,6 +9220,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-06T14:43:23Z,2020-10-06T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-06T14:43:23Z,2020-10-06T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-10-06T14:43:23Z,2020-10-06T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-10-06T14:43:23Z,2020-10-06T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-10-07T14:09:45Z,2020-10-07T00:00:00Z,Omaira Pacheco,Acelga china - Kilogramos,NA
 2020-10-07T14:09:45Z,2020-10-07T00:00:00Z,Omaira Pacheco,Acelga común - Kilogramos,NA
 2020-10-07T14:09:45Z,2020-10-07T00:00:00Z,Omaira Pacheco,Acelga pati-amarilla - Kilogramos,0.148
@@ -9099,6 +9273,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-07T14:09:45Z,2020-10-07T00:00:00Z,Omaira Pacheco,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-07T14:09:45Z,2020-10-07T00:00:00Z,Omaira Pacheco,Rosas - Ramo,NA
 2020-10-07T14:09:45Z,2020-10-07T00:00:00Z,Omaira Pacheco,Semilla de ajo - Libra,NA
+2020-10-07T14:09:45Z,2020-10-07T00:00:00Z,Omaira Pacheco,Cebolla curada - Kilogramos,NA
 2020-10-09T09:14:22Z,2020-10-07T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,3.76
 2020-10-09T09:14:22Z,2020-10-07T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,NA
 2020-10-09T09:14:22Z,2020-10-07T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.1
@@ -9151,6 +9326,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-09T09:14:22Z,2020-10-07T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-09T09:14:22Z,2020-10-07T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-10-09T09:14:22Z,2020-10-07T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-10-09T09:14:22Z,2020-10-07T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-10-09T09:19:03Z,2020-10-08T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-10-09T09:19:03Z,2020-10-08T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,0.12
 2020-10-09T09:19:03Z,2020-10-08T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,0.07
@@ -9203,6 +9379,7 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-09T09:19:03Z,2020-10-08T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-09T09:19:03Z,2020-10-08T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-10-09T09:19:03Z,2020-10-08T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-10-09T09:19:03Z,2020-10-08T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
 2020-10-09T09:28:16Z,2020-10-09T00:00:00Z,Luz Janneth Sacantiva,Acelga china - Kilogramos,NA
 2020-10-09T09:28:16Z,2020-10-09T00:00:00Z,Luz Janneth Sacantiva,Acelga común - Kilogramos,0.716
 2020-10-09T09:28:16Z,2020-10-09T00:00:00Z,Luz Janneth Sacantiva,Acelga pati-amarilla - Kilogramos,NA
@@ -9255,3 +9432,4 @@ Timestamp,Fecha de registro,Nombre,Producto,Cantidad
 2020-10-09T09:28:16Z,2020-10-09T00:00:00Z,Luz Janneth Sacantiva,Miel de Abejas - Frasco por 160 gramos,NA
 2020-10-09T09:28:16Z,2020-10-09T00:00:00Z,Luz Janneth Sacantiva,Rosas - Ramo,NA
 2020-10-09T09:28:16Z,2020-10-09T00:00:00Z,Luz Janneth Sacantiva,Semilla de ajo - Libra,NA
+2020-10-09T09:28:16Z,2020-10-09T00:00:00Z,Luz Janneth Sacantiva,Cebolla curada - Kilogramos,NA
