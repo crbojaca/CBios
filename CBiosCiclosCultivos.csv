@@ -1,4 +1,4 @@
-Invernadero	Módulo	Cultivo	Tipo	Variedad	Camas	Cama	Duración	Sustrato	Observaciones	Estado	Fecha
+Invernadero	M..dulo	Cultivo	Tipo	Variedad	Camas	Cama	Duraci..n	Sustrato	Observaciones	Estado	Fecha
 Hortisimulador	2	Tomate	Chonto	Varias	6	NA	173	2	NA	Final	2021-01-21
 Hortisimulador	2	Tomate	Chonto	Varias	6	NA	173	2	NA	Semillero	NA
 Hortisimulador	2	Tomate	Chonto	Varias	6	NA	173	2	NA	En Cultivo	2020-07-30
@@ -11,10 +11,10 @@ Vidrio 	1	Tomate	Cherry	Cherry amarrillo	1	NA	149	2	NA	En Cultivo	2020-06-03
 Vidrio 	1	Tomate	Chonto	Gem 	2	NA	112	2	NA	Final	2020-11-20
 Vidrio 	1	Tomate	Chonto	Gem 	2	NA	112	2	NA	Semillero	NA
 Vidrio 	1	Tomate	Chonto	Gem 	2	NA	112	2	NA	En Cultivo	2020-07-29
-Hortisimulador	1	Pasifloras	"NA"	Varias	6	NA	266	"NA"	NA	Final	2021-06-08
+Hortisimulador	1	Pasifloras	"NA"	Varias	6	NA	266	"NA"	NA	Final	2021-06-09
 Hortisimulador	1	Pasifloras	"NA"	Varias	6	NA	266	"NA"	NA	Semillero	NA
 Hortisimulador	1	Pasifloras	"NA"	Varias	6	NA	266	"NA"	NA	En Cultivo	2020-09-15
-Richel	1	Rosas	"NA"	Freedom	12	NA	297	"NA"	NA	Final	2021-06-08
+Richel	1	Rosas	"NA"	Freedom	12	NA	297	"NA"	NA	Final	2021-06-09
 Richel	1	Rosas	"NA"	Freedom	12	NA	297	"NA"	NA	Semillero	NA
 Richel	1	Rosas	"NA"	Freedom	12	NA	297	"NA"	NA	En Cultivo	2020-08-15
 Vidrio 	1	Tomate	Chonto	Gem 	1	NA	176	2	NA	Final	2021-02-25
@@ -47,21 +47,21 @@ Vidrio 	1	Tomate	Chonto	Gem 	1	4	170	3	NA	En Cultivo	2020-11-21
 Vidrio 	1	Tomate	Cherry	Cherry Rijk Zwann	1	10	137	3	NA	Final	2021-05-27
 Vidrio 	1	Tomate	Cherry	Cherry Rijk Zwann	1	10	137	3	NA	Semillero	NA
 Vidrio 	1	Tomate	Cherry	Cherry Rijk Zwann	1	10	137	3	NA	En Cultivo	2021-01-08
-Vidrio 	1	Tomate	Chonto	Gem 	1	5	88	1	NA	Final	2021-06-08
+Vidrio 	1	Tomate	Chonto	Gem 	1	5	88	1	NA	Final	2021-06-09
 Vidrio 	1	Tomate	Chonto	Gem 	1	5	88	1	NA	Semillero	NA
 Vidrio 	1	Tomate	Chonto	Gem 	1	5	88	1	NA	En Cultivo	2021-03-12
-Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	7	34	1	Doble tallo	Final	2021-06-08
+Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	7	34	1	Doble tallo	Final	2021-06-09
 Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	7	34	1	Doble tallo	Semillero	2021-03-18
 Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	7	34	1	Doble tallo	En Cultivo	2021-05-05
-Vidrio 	1	Tomate	Chonto	Alamina	1	6	74	1	NA	Final	2021-06-08
+Vidrio 	1	Tomate	Chonto	Alamina	1	6	74	1	NA	Final	2021-06-09
 Vidrio 	1	Tomate	Chonto	Alamina	1	6	74	1	NA	Semillero	2021-03-06
 Vidrio 	1	Tomate	Chonto	Alamina	1	6	74	1	NA	En Cultivo	2021-03-26
-Vidrio 	1	Tomate	San Marzano	Sir Elyan	1	2	8	1	Doble tallo	Final	2021-06-08
+Vidrio 	1	Tomate	San Marzano	Sir Elyan	1	2	8	1	Doble tallo	Final	2021-06-09
 Vidrio 	1	Tomate	San Marzano	Sir Elyan	1	2	8	1	Doble tallo	Semillero	2021-04-29
 Vidrio 	1	Tomate	San Marzano	Sir Elyan	1	2	8	1	Doble tallo	En Cultivo	2021-05-31
-Vidrio 	1	Tomate	Chonto	Gem 	1	1	34	1	Doble tallo	Final	2021-06-08
+Vidrio 	1	Tomate	Chonto	Gem 	1	1	34	1	Doble tallo	Final	2021-06-09
 Vidrio 	1	Tomate	Chonto	Gem 	1	1	34	1	Doble tallo	Semillero	2021-03-21
 Vidrio 	1	Tomate	Chonto	Gem 	1	1	34	1	Doble tallo	En Cultivo	2021-05-05
-Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	8	7	1	NA	Final	2021-06-08
+Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	8	7	1	NA	Final	2021-06-09
 Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	8	7	1	NA	Semillero	2021-04-29
 Vidrio 	1	Tomate	Cherry	Cherry amarillo/rojo	1	8	7	1	NA	En Cultivo	2021-06-01
