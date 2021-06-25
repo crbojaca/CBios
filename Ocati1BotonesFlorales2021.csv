@@ -716,7 +716,7 @@ Fecha	Luz	Material	Repeticion	Nombre	No.Botones	No.entrenudos	Frutos
 2021-06-09	Sin Luz	TA	3	sl-ta-r3	3	10	"NA"
 2021-06-09	Sin Luz	TA	2	sl-ta-r2	10	16	"NA"
 2021-06-09	Sin Luz	TA	5	sl-ta-r5	3	13	2
-2021-06-09	Sin Luz	TA	4	sl-ta-r4	"NA"	"NA"	"NA"
+2021-06-09	Sin Luz	TA	5	sl-ta-r5	3	13	2
 2021-06-09	Sin Luz	TA	9	sl-ta-r9	14	22	4
 2021-06-09	Sin Luz	TA	10	sl-ta-r10	13	22	2
 2021-06-09	Sin Luz	TA	8	sl-ta-r8	12	21	1
@@ -728,7 +728,7 @@ Fecha	Luz	Material	Repeticion	Nombre	No.Botones	No.entrenudos	Frutos
 2021-06-09	Con Luz	TA	4	cl-ta-r4	12	23	5
 2021-06-09	Con Luz	TA	5	cl-ta-r5	11	22	3
 2021-06-09	Con Luz	TA	6	cl-ta-r6	11	20	5
-2021-06-09	Con Luz	TA	7	cl-ta-r7	5	11	"NA"
+2021-06-09	Sin Luz	TA	4	sl-ta-r4	"NA"	"NA"	"NA"
 2021-06-09	Con Luz	TA	8	cl-ta-r8	13	20	3
 2021-06-09	Con Luz	TA	9	cl-ta-r9	12	22	4
 2021-06-09	Con Luz	TA	10	cl-ta-r10	12	20	5
@@ -826,7 +826,7 @@ Fecha	Luz	Material	Repeticion	Nombre	No.Botones	No.entrenudos	Frutos
 2021-06-15	Con Luz	TA	2	cl-ta-r2	10	20	4
 2021-06-15	Con Luz	TA	3	cl-ta-r3	13	22	3
 2021-06-15	Con Luz	TA	4	cl-ta-r4	11	22	5
-2021-06-15	Con Luz	TA	5	cl-ta-r5	"NA"	"NA"	"NA"
+2021-06-09	Sin Luz	TA	9	sl-ta-r9	14	22	4
 2021-06-15	Con Luz	TA	6	cl-ta-r6	6	19	7
 2021-06-15	Con Luz	TA	7	cl-ta-r7	5	11	0
 2021-06-15	Con Luz	TA	8	cl-ta-r8	8	18	4
@@ -852,136 +852,138 @@ Fecha	Luz	Material	Repeticion	Nombre	No.Botones	No.entrenudos	Frutos
 2021-06-15	Con Luz	WI	8	cl-wi-r8	4	9	0
 2021-06-15	Con Luz	WI	9	cl-wi-r9	2	9	0
 2021-06-15	Con Luz	WI	10	cl-wi-r10	3	6	0
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
-NA	NA	NA	NA	NA	NA	NA	NA
+2021-06-09	Sin Luz	TA	10	sl-ta-r10	13	22	2
+2021-06-09	Sin Luz	TA	8	sl-ta-r8	12	21	1
+2021-06-09	Sin Luz	TA	6	sl-ta-r6	13	20	4
+2021-06-09	Sin Luz	TA	7	sl-ta-r7	13	21	2
+2021-06-09	Con Luz	TA	8	cl-ta-r8	13	20	3
+2021-06-09	Con Luz	TA	7	cl-ta-r7	5	11	"NA"
+2021-06-09	Con Luz	TA	5	cl-ta-r5	11	22	3
+2021-06-09	Con Luz	TA	4	cl-ta-r4	12	23	5
+2021-06-09	Con Luz	TA	3	cl-ta-r3	14	22	3
+2021-06-09	Con Luz	TA	6	cl-ta-r6	11	20	5
+2021-06-09	Con Luz	TA	2	cl-ta-r2	12	20	5
+2021-06-09	Con Luz	TA	1	cl-ta-r1	14	23	3
+2021-06-09	Con Luz	TA	10	cl-ta-r10	12	20	5
+2021-06-09	Con Luz	TA	9	cl-ta-r9	12	22	4
+2021-06-22	Sin Luz	GU	1	sl-gu-r1	"NA"	9	"NA"
+2021-06-22	Sin Luz	GU	2	sl-gu-r2	2	15	1
+2021-06-22	Sin Luz	GU	3	sl-gu-r3	4	16	0
+2021-06-22	Sin Luz	GU	4	sl-gu-r4	1	10	"NA"
+2021-06-22	Sin Luz	GU	5	sl-gu-r5	1	12	1
+2021-06-22	Sin Luz	GU	6	sl-gu-r6	2	11	"NA"
+2021-06-22	Sin Luz	GU	7	sl-gu-r7	2	11	"NA"
+2021-06-22	Sin Luz	GU	8	sl-gu-r8	1	9	"NA"
+2021-06-22	Sin Luz	GU	9	sl-gu-r9	2	17	"NA"
+2021-06-22	Sin Luz	GU	10	sl-gu-r10	2	13	"NA"
+2021-06-22	Con Luz	GU	1	cl-gu-r1	"NA"	1	1
+2021-06-22	Con Luz	GU	2	cl-gu-r2	3	13	2
+2021-06-22	Con Luz	GU	3	cl-gu-r3	1	8	2
+2021-06-22	Con Luz	GU	4	cl-gu-r4	5	15	1
+2021-06-22	Con Luz	GU	5	cl-gu-r5	2	8	1
+2021-06-22	Con Luz	GU	7	cl-gu-r7	4	13	2
+2021-06-22	Con Luz	GU	8	cl-gu-r8	1	8	"NA"
+2021-06-22	Con Luz	GU	9	cl-gu-r9	3	13	"NA"
+2021-06-22	Con Luz	GU	10	cl-gu-r10	1	8	2
+2021-06-22	Con Luz	GU	6	cl-gu-r6	2	8	1
+2021-06-22	Sin Luz	KI	1	sl-ki-r1	3	19	3
+2021-06-22	Sin Luz	KI	2	sl-ki-r2	5	18	4
+2021-06-22	Sin Luz	KI	3	sl-ki-r3	2	12	1
+2021-06-22	Sin Luz	KI	4	sl-ki-r4	"NA"	16	3
+2021-06-22	Sin Luz	KI	5	sl-ki-r5	5	17	4
+2021-06-22	Sin Luz	KI	6	sl-ki-r6	5	18	4
+2021-06-22	Sin Luz	KI	7	sl-ki-r7	4	18	3
+2021-06-22	Sin Luz	KI	8	sl-ki-r8	3	17	5
+2021-06-22	Sin Luz	KI	9	sl-ki-r9	3	17	3
+2021-06-22	Sin Luz	KI	10	sl-ki-r10	8	23	4
+2021-06-22	Con Luz	KI	1	cl-ki-r1	3	16	4
+2021-06-22	Con Luz	KI	2	cl-ki-r2	5	15	2
+2021-06-22	Con Luz	KI	3	cl-ki-r3	3	17	3
+2021-06-22	Con Luz	KI	4	cl-ki-r4	3	14	3
+2021-06-22	Con Luz	KI	5	cl-ki-r5	"NA"	12	2
+2021-06-22	Con Luz	KI	6	cl-ki-r6	5	12	2
+2021-06-22	Con Luz	KI	7	cl-ki-r7	4	14	1
+2021-06-22	Con Luz	KI	8	cl-ki-r8	7	16	3
+2021-06-22	Con Luz	KI	9	cl-ki-r9	1	9	3
+2021-06-22	Con Luz	KI	10	cl-ki-r10	6	17	2
+2021-06-22	Sin Luz	CA	1	sl-ca-r1	5	13	"NA"
+2021-06-22	Sin Luz	CA	2	sl-ca-r2	4	11	2
+2021-06-22	Sin Luz	CA	3	sl-ca-r3	7	12	1
+2021-06-22	Sin Luz	CA	4	sl-ca-r4	9	14	1
+2021-06-22	Sin Luz	CA	5	sl-ca-r5	6	11	1
+2021-06-22	Sin Luz	CA	6	sl-ca-r6	3	10	"NA"
+2021-06-22	Sin Luz	CA	7	sl-ca-r7	7	15	1
+2021-06-22	Sin Luz	CA	8	sl-ca-r8	7	16	2
+2021-06-22	Sin Luz	CA	9	sl-ca-r9	9	15	"NA"
+2021-06-22	Sin Luz	CA	10	sl-ca-r10	7	13	"NA"
+2021-06-22	Con Luz	CA	1	cl-ca-r1	2	12	2
+2021-06-22	Con Luz	CA	2	cl-ca-r2	5	15	2
+2021-06-22	Con Luz	CA	3	cl-ca-r3	4	14	1
+2021-06-22	Con Luz	CA	4	cl-ca-r4	7	17	3
+2021-06-22	Con Luz	CA	5	cl-ca-r5	5	15	2
+2021-06-22	Con Luz	CA	6	cl-ca-r6	2	9	"NA"
+2021-06-22	Con Luz	CA	7	cl-ca-r7	2	9	2
+2021-06-22	Con Luz	CA	8	cl-ca-r8	2	7	1
+2021-06-22	Con Luz	CA	9	cl-ca-r9	7	13	1
+2021-06-22	Con Luz	CA	10	cl-ca-r10	4	10	"NA"
+2021-06-22	Sin Luz	VU	1	sl-vu-r1	1	12	"NA"
+2021-06-22	Sin Luz	VU	2	sl-vu-r2	5	17	1
+2021-06-22	Sin Luz	VU	3	sl-vu-r3	1	10	"NA"
+2021-06-22	Sin Luz	VU	4	sl-vu-r4	8	23	2
+2021-06-22	Sin Luz	VU	5	sl-vu-r5	2	15	1
+2021-06-22	Sin Luz	VU	6	sl-vu-r6	6	18	1
+2021-06-22	Sin Luz	VU	7	sl-vu-r7	1	8	"NA"
+2021-06-22	Sin Luz	VU	8	sl-vu-r8	9	24	1
+2021-06-22	Sin Luz	VU	9	sl-vu-r9	10	24	"NA"
+2021-06-22	Sin Luz	VU	10	sl-vu-r10	15	26	"NA"
+2021-06-22	Con Luz	VU	1	cl-vu-r1	4	14	"NA"
+2021-06-22	Con Luz	VU	2	cl-vu-r2	16	22	2
+2021-06-22	Con Luz	VU	3	cl-vu-r3	5	16	1
+2021-06-22	Con Luz	VU	4	cl-vu-r4	10	17	"NA"
+2021-06-22	Con Luz	VU	5	cl-vu-r5	2	10	"NA"
+2021-06-22	Con Luz	VU	6	cl-vu-r6	11	24	1
+2021-06-22	Con Luz	VU	7	cl-vu-r7	11	22	"NA"
+2021-06-22	Con Luz	VU	8	cl-vu-r8	4	19	1
+2021-06-22	Con Luz	VU	9	cl-vu-r9	3	18	1
+2021-06-22	Con Luz	VU	10	cl-vu-r10	11	23	"NA"
+2021-06-22	Sin Luz	WI	1	sl-wi-r1	"NA"	9	"NA"
+2021-06-22	Sin Luz	WI	2	sl-wi-r2	2	10	"NA"
+2021-06-22	Sin Luz	WI	3	sl-wi-r3	4	6	"NA"
+2021-06-22	Sin Luz	WI	4	sl-wi-r4	"NA"	3	"NA"
+2021-06-22	Sin Luz	WI	5	sl-wi-r5	3	8	"NA"
+2021-06-22	Sin Luz	WI	6	sl-wi-r6	2	6	"NA"
+2021-06-22	Sin Luz	WI	7	sl-wi-r7	3	7	"NA"
+2021-06-22	Sin Luz	WI	8	sl-wi-r8	"NA"	1	"NA"
+2021-06-22	Sin Luz	WI	9	sl-wi-r9	2	6	"NA"
+2021-06-22	Sin Luz	WI	10	sl-wi-r10	1	6	"NA"
+2021-06-22	Con Luz	WI	1	cl-wi-r1	7	13	"NA"
+2021-06-22	Con Luz	WI	2	cl-wi-r2	7	12	"NA"
+2021-06-22	Con Luz	WI	3	cl-wi-r3	7	13	"NA"
+2021-06-22	Con Luz	WI	4	cl-wi-r4	8	12	"NA"
+2021-06-22	Con Luz	WI	5	cl-wi-r5	10	17	"NA"
+2021-06-22	Con Luz	WI	6	cl-wi-r6	8	14	"NA"
+2021-06-22	Con Luz	WI	7	cl-wi-r7	7	12	"NA"
+2021-06-22	Con Luz	WI	8	cl-wi-r8	5	11	"NA"
+2021-06-22	Con Luz	WI	9	cl-wi-r9	6	10	"NA"
+2021-06-22	Con Luz	WI	10	cl-wi-r10	5	10	"NA"
+2021-06-22	Sin Luz	TA	2	sl-ta-r2	4	15	1
+2021-06-22	Sin Luz	TA	6	sl-ta-r6	1	16	6
+2021-06-22	Sin Luz	TA	7	sl-ta-r7	4	19	3
+2021-06-22	Sin Luz	TA	8	sl-ta-r8	4	19	2
+2021-06-22	Sin Luz	TA	9	sl-ta-r9	4	20	5
+2021-06-22	Sin Luz	TA	1	sl-ta-r1	"NA"	2	1
+2021-06-22	Sin Luz	TA	3	sl-ta-r3	3	10	"NA"
+2021-06-22	Sin Luz	TA	5	sl-ta-r5	1	12	2
+2021-06-22	Con Luz	TA	1	cl-ta-r1	2	16	5
+2021-06-22	Con Luz	TA	2	cl-ta-r2	6	18	5
+2021-06-22	Con Luz	TA	3	cl-ta-r3	3	15	3
+2021-06-22	Con Luz	TA	4	cl-ta-r4	1	16	6
+2021-06-22	Con Luz	TA	5	cl-ta-r5	2	15	5
+2021-06-22	Con Luz	TA	6	cl-ta-r6	1	17	7
+2021-06-22	Con Luz	TA	7	cl-ta-r7	8	14	"NA"
+2021-06-22	Con Luz	TA	8	cl-ta-r8	1	17	4
+2021-06-22	Con Luz	TA	9	cl-ta-r9	2	14	6
+2021-06-22	Con Luz	TA	10	cl-ta-r10	6	19	6
 NA	NA	NA	NA	NA	NA	NA	NA
 NA	NA	NA	NA	NA	NA	NA	NA
 NA	NA	NA	NA	NA	NA	NA	NA
